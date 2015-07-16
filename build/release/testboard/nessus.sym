@@ -1,0 +1,3482 @@
+../../angel/rt.s   00000000
+../../angel/rt.s   00000000
+../../angel/rt.s   00000000
+../../angel/rt.s   00000000
+../../angel/rt.s   00000000
+../../angel/rt.s   00000000
+../../angel/rt.s   00000000
+../../angel/rt.s   00000000
+../../angel/rt.s   00000000
+../../angel/rt.s   00000000
+../../angel/rt.s   00000000
+../../angel/sys.s   00000000
+../../angel/sys.s   00000000
+../../angel/sysapp.c   00000000
+../../bigflt.c   00000000
+../../btod.s   00000000
+../../classify.c   00000000
+../../dcheck1.s   00000000
+../../division.s   00000000
+../../division.s   00000000
+../../division.s   00000000
+../../divrt.s   00000000
+../../divrt.s   00000000
+../../dtoi.c   00000000
+../../dunder.s   00000000
+../../fpclassify.c   00000000
+../../heapalloc.c   00000000
+../../istatus.s   00000000
+../../locale.c   00000000
+../../locale.s   00000000
+../../locale.s   00000000
+../../longlong.s   00000000
+../../longlong.s   00000000
+../../longlong.s   00000000
+../../longlong.s   00000000
+../../memcpset.s   00000000
+../../memcpset.s   00000000
+../../memcpset.s   00000000
+../../memcpset.s   00000000
+../../memcpset.s   00000000
+../../memcpset.s   00000000
+../../printf.c   00000000
+../../printf.c   00000000
+../../printf.c   00000000
+../../printf.c   00000000
+../../printf.c   00000000
+../../printf.c   00000000
+../../printf.c   00000000
+../../printf.c   00000000
+../../printf.c   00000000
+../../printf.c   00000000
+../../printf.c   00000000
+../../printf.c   00000000
+../../printf.c   00000000
+../../printf.c   00000000
+../../printf.c   00000000
+../../printf.c   00000000
+../../printf.c   00000000
+../../printf.c   00000000
+../../printf.c   00000000
+../../printf1.s   00000000
+../../printf2.s   00000000
+../../printf2a.s   00000000
+../../printf2b.s   00000000
+../../retnan.s   00000000
+../../scalbn.s   00000000
+../../signal.c   00000000
+../../signal.c   00000000
+../../signal.c   00000000
+../../signal.c   00000000
+../../signal.c   00000000
+../../signal.c   00000000
+../../signal.s   00000000
+../../string.c   00000000
+../../string.c   00000000
+../../string.c   00000000
+../../string.c   00000000
+../../string.c   00000000
+../../string.c   00000000
+../../string.c   00000000
+../../trapv.s   00000000
+../../unhosted.s   00000000
+../../unhosted.s   00000000
+../../unhosted.s   00000000
+../../usenofp.s   00000000
+../common/firmware/USB/rimusb.c   00000000
+../common/firmware/USB/tavorpv/usbdrv_tavorpv.c   00000000
+../common/firmware/USB/usbbuffers.c   00000000
+../common/firmware/USB/usbcd.c   00000000
+../common/firmware/USB/usbdesc.c   00000000
+../common/firmware/USB/usbmsg.c   00000000
+../common/firmware/USB/usbmux.c   00000000
+../common/firmware/USB/usbprofile.c   00000000
+../common/firmware/USB/usbreq.c   00000000
+../common/firmware/critical/timedsemaphores.c   00000000
+../common/firmware/datastructs/linkedlist.c   00000000
+../common/firmware/datastructs/ringbuffer.c   00000000
+../common/firmware/debug/DbSerJtg.c   00000000
+../common/firmware/debug/DbStream.c   00000000
+../common/firmware/debug/MbBugdisp.c   00000000
+../common/firmware/debug/bufbugdisp.c   00000000
+../common/firmware/debug/bugdisp_cmds.c   00000000
+../common/firmware/debug/debugprintf.c   00000000
+../common/firmware/debug/lpbugdisp.c   00000000
+../common/firmware/delay/HwDelayJump.s   00000000
+../common/firmware/delay/mmp_timedDelay.c   00000000
+../common/firmware/gpio/tavor_gpio.c   00000000
+../common/firmware/memory/enderam.c   00000000
+../common/firmware/memory/ldrblocks.c   00000000
+../common/firmware/reset/tavor_reset.c   00000000
+../common/firmware/security/OSSignature.c   00000000
+../common/firmware/timers/ntimers.c   00000000
+../common/firmware/utils/arm_misc_hw.s   00000000
+../common/firmware/utils/rsprintf.c   00000000
+../common/firmware/utils/storeArmRegisters.s   00000000
+../common/firmware/utils/task_call.c   00000000
+./drivers/arm7_misc.c   00000000
+./drivers/bugdispXcmds.c   00000000
+./drivers/clocks.c   00000000
+./drivers/freqchange.c   00000000
+./drivers/memsize_hack.c   00000000
+./drivers/mmp2_intctrl.c   00000000
+./drivers/mmucache.c   00000000
+./drivers/mmuinit.c   00000000
+./drivers/os_extended.c   00000000
+./drivers/pj4_misc.c   00000000
+./drivers/rtc.c   00000000
+./drivers/tavor_clocks.c   00000000
+./drivers/tavor_freqchange.c   00000000
+./drivers/tavor_misc.c   00000000
+./drivers/tavor_rtc.c   00000000
+./drivers/tavor_timer.c   00000000
+./drivers/tavor_timer_hw.s   00000000
+./entrypoints/arm7_handler.c   00000000
+./entrypoints/arm7_interface.s   00000000
+./entrypoints/entrypoint.c   00000000
+./failure/debug.c   00000000
+./init/arm7_linkerinfo.s   00000000
+./init/init.c   00000000
+./init/kernel_metrics.c   00000000
+./init/metrics.c   00000000
+./services/srv_message.c   00000000
+./services/srv_thread.c   00000000
+./tasks/debugtask.c   00000000
+./tasks/idletask.c   00000000
+./tasks/usbtask.c   00000000
+base/framework/src/framework.c   00000000
+base/framework/src/utility_debug.c   00000000
+base/framework/src/utility_message.c   00000000
+base/manager/src/mgr_main.c   00000000
+base/rei/src/rei.c   00000000
+base/rei/src/rei_minios_clocks.c   00000000
+base/rei/src/rei_minios_gpio.c   00000000
+base/test/src/clk_test.c   00000000
+base/test/src/gpio_test.c   00000000
+dc.s   00000000
+drivers/display/src/dispif_drvfwk.c   00000000
+drivers/display/src/dss/display.c   00000000
+drivers/display/src/dss/dsi.c   00000000
+drivers/display/src/dss/hdmi.c   00000000
+drivers/display/src/dss/parallel.c   00000000
+drivers/display/src/panels/svp_lcd_mirage_sharp.c   00000000
+drivers/display/src/panels/svp_panels.c   00000000
+drivers/display/test/display_test.c   00000000
+drivers/i2c/src/i2c.c   00000000
+drivers/i2c/src/i2c_drvfwk.c   00000000
+drivers/serial/src/serial.c   00000000
+drivers/uart/src/uart.c   00000000
+kernel/arm7_func.s   00000000
+kernel/arm7_inout.s   00000000
+kernel/critical.c   00000000
+kernel/deadlock.c   00000000
+kernel/flags.c   00000000
+kernel/ipc.c   00000000
+kernel/kernel_heap_minimal.c   00000000
+kernel/kernel_profile.c   00000000
+kernel/mutex.c   00000000
+kernel/semaphore.c   00000000
+kernel/thread.c   00000000
+kernel/threadgen.c   00000000
+obj/platform_os/apifail.c   00000000
+obj/platform_os/config_gpio_platform_os.c   00000000
+obj/platform_os/os_export_table.s   00000000
+obj\platform_os\config_memory.inc.tmp2   00000000
+Init   8
+.constdata   1e8
+LinkerInfo   3a0
+export_jump_table   3ac
+.text   159c
+.text   15c0
+CheckCoreMode   15c1
+CheckIntDisableError   1803
+.text   1894
+.text   1a54
+initSystemStacks   1a54
+.text   1ba4
+isBufferEnabled   1c07
+checkThreshold   1c3b
+.text   1fdc
+.text   222c
+GenericCallNowX_internal   222d
+GenericCallNowX   233f
+QueueMsgCall   2441
+.text   2580
+.text   2630
+.text   26f4
+.text   2738
+.text   2a04
+.text   2aa0
+.text   2bd4
+.text   2c8c
+.text   2ddc
+.text   2e40
+.text   2e50
+initializeIntCtrlHandlers   2e51
+initializeIntCtrlHw   2f03
+.text   2f9c
+DeviceSpecificPadConfigure   3d4b
+.text   4014
+.text   4078
+.text   410c
+.text   4158
+.text   4378
+catfailTimer   4379
+findEarliest   4387
+SetMatchRegister   43bb
+timerInterruptHandler   4401
+between   45bd
+.text   4630
+AddNodeToList   4631
+RemoveNodeFromList   465f
+TimedSemaphoreStartTimer   469d
+.text   496c
+.text   4988
+freqHzToPossibleIdx   4aa7
+updateCoreFreqPmTicks   4aed
+.text   4cbc
+UsbNoPortCatfailNoArgs   4cbd
+UsbNoPortStallPipe   4cd1
+UsbNoPortUnStallPipe   4ce5
+UsbNoPortSetForceStall   4cf9
+UsbNoPortControlSend   4d0d
+UsbNoPortDumpRegisters   4d21
+UsbDrvDummyChanArg   4d2b
+UsbDrvInitChannel   4d3f
+UsbDrvSetupOutPipe   4d55
+UsbDrvSetupInPipe   4d6b
+UsbDrvDummyBYTEArgBYTERet   4d81
+UsbDrvGetCurrentFrame   4d97
+usbStateDump   4dd1
+getStatus   538b
+setFeature   57d5
+clearFeature   585f
+.text   591c
+.text   61d4
+dequeue   63db
+closeChannel   644d
+peek   6531
+sendNextPacket   657f
+enqueue   6741
+controlPacketSent   6f89
+controlPacketReceived   71c5
+usbInfoScreenInfoFunc   7cb1
+usbInfoItemInfoFunc   7ceb
+usbInfoItemDataFunc   7d23
+setUsbMsEnaFlag   809d
+toggleUsbSpeed   80a1
+toggleMSOnly   80ab
+usbInfoMenuItemInfoFunc   80af
+usbInfoMenuItemDataFunc   80fb
+usbInfoMenuInfoFunc   8145
+isChannelSupported   816d
+RejectCodeToPacket   8199
+AckItemToPacket   81a1
+controlChannelOn   81b5
+appendPowerString   81ed
+appendStateString   823f
+.text   83c0
+.text   8ac0
+AlignUsbBuffer   953d
+usbInfoItemInfoFunc   a41f
+usbInfoItemDataFunc   a45f
+RimUsbSoftReconnectCallback   a4a1
+UsbSwitchModePrintFunctions   a50f
+.text   a564
+.text   a980
+getTd   a99f
+UsbEpPrime   a9e5
+UsbEpTdInit   aa8d
+UsbDrvGetOperatingSpeed   aaeb
+UsbEpTdListInit   ab0d
+UsbDrvControlSend   ac01
+UsbEpTdComplete   ad55
+ENABLE_USB_INTERRUPTS   b203
+DISABLE_USB_INTERRUPTS   b21f
+SETUP_USB_INTERRUPTS   b4c1
+UNCONFIG_USB_INTERRUPTS   b4d9
+phyTuningValuesInit   b4db
+UsbDrvInit   b6ef
+UsbDrvUninit   b9f1
+UsbDrvEnable   ba03
+UsbDrvDisable   ba79
+UsbDrvSetupOutPipe   badf
+UsbDrvSetupInPipe   bb27
+UsbDrvControlSendStatus   bd1b
+FlushEps   bd25
+UsbDrvAttach   bdc9
+UsbDrvDetach   bde5
+UsbDrvGetCurrentFrame   be0d
+UsbDrvConfigureEndpoints   be19
+UsbDrvStallPipe   be43
+UsbDrvUnStallPipe   be9d
+UsbDrvSetForceStall   bf1b
+UsbDrvEpToChan   bf1d
+ConvertEPAntiochToRim   bf4b
+UsbDrvHandleFailure   bf4d
+ENABLE_XCVER   bf51
+DISABLE_XCVER   bf53
+ENABLE_USB_OUTPUTS   bf55
+DISABLE_USB_OUTPUTS   bf57
+UsbDrvInitPeriph   bf59
+UsbDrvConfigForAcCharging   bf5b
+UsbDrvClearCD   bf69
+UsbDrvClearInts   bf6b
+UsbDrvCancelIO   bf6d
+UsbDrvCancelOutXfer   bf6f
+UsbDrvInitChannel   bf7f
+UsbDrvShutdown   bf83
+UsbDrvDumpRegisters   bf85
+UsbDrvDisableOutPipe   c269
+UsbDrvDisableInPipe   c26b
+UsbDrvGetMaxOperatingSpeed   c26d
+UsbDrvCoreHandlesZLPReads   c27f
+UsbDrvCancelChanXfer   c283
+UsbDrvResumeChanXfer   c285
+.text   c328
+.text   c434
+.text   c848
+.text   c920
+D0ckenAControl   c921
+D0ckenBControl   c923
+D0ckenCControl   c925
+cwsbrControl   c927
+FrequencyBlockControl   c93f
+FrequencyMaxControl   c94d
+.text   c980
+Handle2Timer   c981
+recalcEarliestMaxExpiryTime   c9ad
+insertTimer   ca79
+internalStartTimer   cc2b
+ExpireOneTimer   d035
+internalRemainingTime   d28d
+hMappedStartTimer   d34f
+CheckCoreMode   d481
+Timer2Handle   d541
+setTimerInterrupt   d555
+removeTimerMessageFromQueue   d567
+.text   d618
+.text   d680
+DebugExtension   d73d
+.text   e08c
+.text   e16c
+CombineTypeAndIndex   e52b
+.text   e5e4
+.text   e778
+QueuePacketsForUsb   e7e1
+.text   eda0
+AddDeviceSideTimestamp   eda5
+.text   ede8
+.text   f488
+.text   f500
+.text   fbcc
+warnMsgInfo   fd47
+.text   fdcc
+.text   fddc
+ThreadReturnCatfail   fdfb
+CheckCoreMode   ffbb
+.text   100f8
+.text   10184
+.text   101d4
+.text   102a4
+.text   10360
+.text   10420
+.text   1047c
+.text   107dc
+.text   10820
+.text   10e9c
+.text   10f00
+serial_put_char   10f99
+serial_process_console   10fcd
+serial_get_instance   11559
+serial_puts   11567
+.text   115b0
+DrvFwkI2cDebug   115b1
+.text   11b48
+DrvDispGetStatus   11b49
+DrvDispGetStats   11b4d
+DrvDispGetConfig   11b51
+DrvDispEnable   11b55
+DrvDispDisable   11b5f
+DrvDispControl   11b69
+.text   11c3c
+RE_DeviceSpecificPadConfigure   1282f
+RE_PadConfigureDrive   128db
+.text   129f8
+.text   12e5c
+.text   13058
+uartHwReceive   13059
+.text   138fc
+I2cRunDescriptors   139b1
+I2cDoStart   13f9d
+I2cDoRead   13ffb
+I2cDoWrite   14089
+.text   14258
+dispcCtrlIsr   14259
+.text   151a8
+dispInitFrameBuffer   151ad
+dispTest   152b5
+.text   155c8
+.text   15768
+dsiGetVc   157b5
+.text   1582c
+.text   1583c
+dbiReadByte   159df
+dbiWriteBytes   15ac9
+setLcdGpioPins   15bcd
+.text   15d84
+.text   15da0
+.text   160a4
+.text   160a8
+.text   16388
+.text   16668
+.text   166b4
+.text   1670c
+.text   1677c
+.text   167a4
+.text   167d0
+.text   167e0
+.text   168b4
+.text   168f4
+.text   16958
+.text   169ac
+.text   169f8
+.text   16a48
+.text   16a90
+.text   16b30
+.text   16b50
+.text   16b70
+.text   16b80
+__arm_div8   16bac
+__arm_div4   16bdc
+__arm_div_large   16c30
+.text   16d00
+.text   16d08
+.text   16d20
+.text   16d3c
+.text   16d68
+.text   16e24
+.text   16ec4
+.text   16f8c
+.text   1701c
+.text   170a4
+.text   170c8
+.text   170fc
+.text   17108
+.text   17154
+.text   17180
+.text   17220
+_fp_digits   17223
+.text   176bc
+.text   179d0
+.text   179ea
+.text   179f4
+.text   17a38
+.text   17a5a
+.text   17a7c
+.text   17a94
+.text   17aa4
+.text_udiv   17b68
+C$$code   17ba0
+CL$$btod_d2e   17bcc
+CL$$btod_d2e_denorm_low   17c04
+CL$$btod_d2e_norm_op1   17c58
+CL$$btod_div_common   17cc0
+CL$$btod_e2e   1800c
+CL$$btod_ediv   180e8
+CL$$btod_emul   1811c
+CL$$btod_mult_common   18150
+EntryExitPoints   183b8
+LeaveKernelReal   184e0
+EntryThunk   18618
+OsCodeBugdispAux   186cc
+OsCodeBugdispPrint   189b4
+OsCodeGenericHeap   18dc0
+OsCodeGenericHeapFast   18e1c
+OsCodeHwDelay   18e8c
+OsCodeHwDelay   18eec
+OsCodeHwDelay   19000
+OsCodeIsr   19008
+int51Isr   19009
+dmaIsr   19053
+int35Isr   1909f
+int17Isr   190eb
+int5Isr   19137
+int4Isr   19183
+defaultIrqHandler   191cf
+checkCtrlIdValidity   191e9
+OsCodeIsr   19748
+gpioIsr   19749
+OsCodeKernelServAux   19818
+CheckIntDisableStrict   19c5b
+CheckIntDisable   19c6f
+CheckIntDisableLeaveCS   19c95
+OsCodeKernelServAux   19cc4
+OsCodeKernelServAux   19ce4
+OsCodeKernelServAux   19e44
+OsCodeKernelServAux   19e80
+CheckCountingSemaphoreInitialization   19eb9
+CheckSemaphoreInitialization   19eed
+ReadyThreadForRunning   19f8b
+OsCodeKernelServAux   1a554
+OsCodeKernelServAux   1a6e4
+SemTimeout   1a6e5
+OsCodeKernelServAux   1a970
+TryLockInternal   1a971
+OsCodeKernelServAux   1ab54
+OsCodeKernelServCore   1ab58
+CheckThreadStack   1ab59
+PrepareForTaskSwitch   1ab81
+CheckCoreModeResetOrInterrupt   1b08d
+OsCodeKernelServCore   1b0c4
+OsCodeKernelServCore   1b118
+OsCodeKernelServCore   1b1bc
+OsCodeKernelServCore   1bb6c
+moveMessageToTaskQueue   1bb7d
+isAcceptableMessage   1bbf5
+findQueuedMessage   1bc5b
+OsCodeKernelServCore   1c034
+OsCodeKernelServCore   1c0a4
+OsCodeKernelServCore   1c16c
+OsCodeKernelServCore   1c170
+OsInitialization   1c27c
+OsInitialization   1c3d8
+StoreRegisters   1c570
+i.__ARM_fpclassify   1c5b0
+i.__mathlib_classify   1c5e0
+i.__support_dtoi   1c614
+locale$$code   1c670
+locale$$code   1c6c0
+x$fpl$dcheck1   1c710
+x$fpl$dunder   1c738
+x$fpl$ieeestatus   1c84c
+x$fpl$printf1   1c854
+x$fpl$printf2   1c858
+x$fpl$retnan   1c85c
+x$fpl$scalbn   1c8d0
+x$fpl$trapveneer   1c9cc
+.constdata   1ca08
+x$fpl$usenofp   1ca08
+.constdata   1ca19
+.constdata   3ca1c
+ForceRDHSpecificConfig@PadConfigure_0   3ca1c
+.constdata   3ca40
+.constdata   3ca50
+.constdata   3ca5c
+locale   3ca80
+errorString   3ca9c
+manufacturerString   3caba
+asciiCvrtTable   3cae0
+.constdata   3caf0
+.constdata   3cb00
+.constdata   3cb10
+.constdata   3cb20
+.constdata   3cb30
+.constdata   3cb44
+.constdata   3cb58
+.constdata   3cb70
+.constdata   3cb80
+UsbStrCompDevEnglish   3cb80
+.constdata   3cbaa
+UsbStrMtpDev   3cbaa
+.constdata   3cbbc
+UniStrBBDevEnglish   3cbbc
+.constdata   3cbd4
+DevFailPkt   3cbd4
+propsToSend@controlPacketReceived_1   3cc28
+.constdata   3cc34
+.constdata   3cc5c
+.constdata   3cc60
+.constdata   3cea4
+newBugdispNotifier@ProcessBugDispCommand_0   3cea4
+StartDelimiter@DebugExtension_1   3cea8
+EndDelimiter@DebugExtension_2   3ceac
+VersioningInfo@ProcessBugDispCommand_1   3ceb0
+.constdata   3cf00
+SendMeFilter@DebugStartOutput_0   3cf00
+msg@WakeDebugTask_0   3cf5c
+buf@ThisCoreDebugPush_0   3cf78
+.constdata   3cf88
+.constdata   3d004
+FrameworkBuildUser   3d004
+FrameworkBuildDate   3d005
+FrameworkBuildTime   3d011
+.constdata   3d01c
+.constdata   3d064
+ForceRDHSpecificConfig@RE_PadConfigure_0   3d064
+.constdata   3d088
+gpioOutput   3d088
+gpioInput   3d0ac
+.constdata   3d120
+.constdata   3d170
+.constdata   3d1dc
+dispcPixelPipeline   3d1dc
+.constdata   3d364
+.constdata   3d4f0
+LcdPadConfiguration   3d4f0
+LcdPadConfiguration_data   3d514
+lcdGpioDetail_SleepHi   3d538
+lcdGpioDetail_SleepLow   3d55c
+lcdGpioDetail_SleepLow_data   3d580
+.constdata   3d5f8
+svpFuncsTable   3d5f8
+.constdata   3d638
+tmdPowerOnData   3d638
+.constdata   3d750
+maptable@__printf_0   3d750
+.constdata   3d764
+initial_mbstate@_printf_wctomb_0   3d764
+.constdata   3d76c
+lc_hextab@_printf_longlong_hex_0   3d76c
+uc_hextab@_printf_longlong_hex_1   3d77d
+.constdata   3d78e
+lc_hextab@_printf_fp_hex_real_0   3d78e
+uc_hextab@_printf_fp_hex_real_1   3d79f
+.constdata   3d7b0
+tenpwrs_x@_btod_etento_0   3d7b0
+tenpwrs_i@_btod_etento_1   3d7ec
+.conststring   3d844
+.conststring   3d859
+.conststring   3d871
+locale$$data   3d874
+__lcnum_c_name   3d878
+__lcnum_c_start   3d880
+__lcnum_c_point   3d88c
+__lcnum_c_thousands   3d88e
+__lcnum_c_grouping   3d88f
+locale$$data   3d890
+__lcnum_c_end   3d890
+__lcctype_c_name   3d894
+__lcctype_c_start   3d89c
+RamImageIntVector   3d9a0
+__lcctype_c_end   3d9a0
+.constdata   3d9e8
+StartOfERam   9ffffc
+kstacks   a00000
+OsDataTaskDescriptors   a01200
+OsDataTaskDescriptors   a0122c
+OsDataTaskDescriptors   a01234
+taskOldStackUsage   a01350
+OsDataTaskDescriptors   a01500
+FastTaskStacks   a01508
+OsDataMsgQueues   a06908
+.data   a06d90
+.data   a06d94
+.data   a06d98
+OldSvcStackFree   a06d98
+.data   a06d9c
+.data   a06da0
+gate   a06da0
+.data   a06da8
+lazyInit   a06da8
+.data   a06dac
+fastTimerInitialized@HwDelayInIram_0   a06dac
+.data   a06db0
+.data   a06db4
+nullValue@GetPadPropertyPrimaryAltMode_0   a06db4
+nullValue@GetPadPropertyPullDownEnable_0   a06db8
+nullValue@GetPadPropertyPullUpEnable_0   a06dbc
+nullValue@GetPadPropertySecondaryAltMode_0   a06dc0
+RimSignalLines   a06dc4
+.data   a06f10
+.data   a06f14
+.data   a06f18
+.data   a06f1c
+.data   a06f20
+.data   a06f24
+.data   a06f28
+.data   a06f2c
+.data   a06f30
+.data   a06f34
+.data   a06f38
+.data   a06f3c
+.data   a06f40
+.data   a06f44
+.data   a06f48
+.data   a06f4c
+.data   a06f50
+.data   a06f54
+.data   a06f58
+.data   a06f5c
+.data   a06f60
+.data   a06f64
+.data   a06f68
+.data   a06f6c
+.data   a06f70
+.data   a06f74
+.data   a06f78
+.data   a06f7c
+.data   a06f80
+.data   a06f84
+.data   a06f88
+.data   a06f8c
+.data   a06f90
+.data   a06f94
+.data   a06f98
+.data   a06f9c
+.data   a06fa0
+.data   a06fa4
+.data   a06fa8
+.data   a06fac
+.data   a06fb0
+.data   a06fb4
+.data   a06fb8
+.data   a06fbc
+.data   a06fc0
+.data   a06fc4
+.data   a06fc8
+.data   a06fcc
+.data   a06fd0
+.data   a06fd4
+.data   a06fd8
+.data   a06fdc
+.data   a06fe0
+.data   a06fe4
+.data   a06fe8
+.data   a06fec
+.data   a06ff0
+.data   a06ff4
+.data   a06ff8
+.data   a06ffc
+.data   a07000
+.data   a07004
+.data   a07008
+.data   a0700c
+.data   a07010
+.data   a07014
+.data   a07018
+.data   a0701c
+.data   a07020
+.data   a07024
+.data   a07028
+.data   a0702c
+.data   a07030
+.data   a07034
+.data   a07038
+.data   a0703c
+.data   a07040
+.data   a07044
+.data   a07048
+.data   a0704c
+.data   a07050
+.data   a07054
+.data   a07058
+.data   a0705c
+spsr@Undefined_Handler_0   a0705c
+cpinst@Undefined_Handler_1   a07060
+.data   a07064
+.data   a07610
+.data   a07614
+.data   a07618
+iResetPowerState   a07618
+ArsrRegResetValue   a0761c
+.data   a07620
+RtcInitialized   a07624
+Uptime   a07628
+.data   a07630
+.data   a07634
+initialized   a07638
+InTmr4InterruptHandler   a0763c
+Earliest   a07640
+rtcRollHandled   a07644
+tmr5Func   a07648
+.data   a0764c
+TimedSemaphoreTask   a0764c
+TimedSemaphoreInitCompleted   a07650
+ActiveList   a07654
+IdleList   a07658
+.data   a07660
+freqWaitFlag   a07660
+queuedFrequency   a07664
+blockMask   a07668
+maxMask   a0766c
+coreFrequencyHz   a07670
+.data   a0767c
+prev_state@usbStateDump_0   a07688
+.data   a0769c
+.data   a076a0
+.data   a076a4
+.data   a076a8
+.data   a07754
+.data   a07758
+config   a07764
+.data   a07788
+.data   a0778c
+.data   a07790
+QueueDevFail   a07790
+openedChannels   a07798
+allowOpens   a0779c
+activeSendChannel   a077a0
+usbFree   a077a4
+receiveState   a077a8
+bufferListInitialized   a077ac
+UsbCatfailChannels   a077b0
+ChannelWithStoppedMessages   a077b4
+dstPtr@UsbMuxPacketReceived_0   a077b8
+dstPtrSize@UsbMuxPacketReceived_1   a077bc
+allocSize@UsbMuxPacketReceived_2   a077c0
+srcPtr@UsbMuxPacketReceived_3   a077c4
+srcPtrSize@UsbMuxPacketReceived_4   a077c8
+lengthtoCopy@UsbMuxPacketReceived_5   a077cc
+totalXferLength@UsbMuxPacketReceived_6   a077d0
+activeReceiveChannel@UsbMuxPacketReceived_7   a077d4
+activeReceiveLength@UsbMuxPacketReceived_8   a077d8
+receivedData@UsbMuxPacketReceived_9   a077dc
+i@UsbMuxPacketReceived_10   a077e0
+topFreeNode   a077e4
+.data   a077e8
+wasProcessingBugdispCommand@UnifiedUsbDebugTaskHandler_0   a077ec
+.data   a077f0
+.data   a077f4
+usbModeDefault   a077f4
+bSoftReconnectPending   a07814
+cachedNvFlags   a0781c
+cachedNvFlagsValid   a07820
+sWaiting@UsbSwitchEnumAttach_0   a07824
+prevStatus@SendConnectionStatus_0   a07828
+usbScreens   a07830
+.data   a07838
+.data   a0783c
+.data   a07840
+.data   a07844
+.data   a07848
+.data   a0784c
+.data   a07850
+debugCurUsbIntIdx   a07851
+drvEnabled   a07854
+drvInited   a07858
+nextTrn   a0785c
+tuningValuesInitialized@phyTuningValuesInit_0   a0786c
+defaultCalData   a07870
+port   a07884
+.data   a07930
+.data   a0793c
+.data   a0799c
+.data   a079cc
+ClockStats   a079cc
+.data   a079d0
+ClockStatsActual   a079d0
+.data   a079d8
+.data   a079dc
+ClockFreqBlockLcd   a079dc
+.data   a079ec
+ClockFreqBlockNand   a079ec
+.data   a079fc
+ClockFreqMaxCamera   a079fc
+.data   a07a0c
+ClockFreqMaxGraphics   a07a0c
+.data   a07a1c
+ClockD0ckenDisp   a07a1c
+.data   a07a2c
+ClockD0ckenPixel   a07a2c
+.data   a07a3c
+ClockD0ckenCamera   a07a3c
+.data   a07a4c
+ClockD0ckenSmc   a07a4c
+.data   a07a5c
+ClockD0ckenVBRom   a07a5c
+.data   a07a6c
+ClockD0ckenMmc0   a07a6c
+.data   a07a7c
+ClockD0ckenMmc1   a07a7c
+.data   a07a8c
+ClockD0ckenMmc2   a07a8c
+.data   a07a9c
+ClockD0ckenKeypad   a07a9c
+.data   a07aac
+ClockD0ckenUsim0   a07aac
+.data   a07abc
+ClockD0ckenUsim1   a07abc
+.data   a07acc
+ClockD0ckenCaddo   a07acc
+.data   a07adc
+ClockD0ckenUdc   a07adc
+.data   a07aec
+ClockD0ckenUart2   a07aec
+.data   a07afc
+ClockD0ckenUart1   a07afc
+.data   a07b0c
+ClockD0ckenUart3   a07b0c
+.data   a07b1c
+ClockD0ckenSsp1   a07b1c
+.data   a07b2c
+ClockD0ckenSsp2   a07b2c
+.data   a07b3c
+ClockD0ckenSsp3   a07b3c
+.data   a07b4c
+ClockD0ckenSsp4   a07b4c
+.data   a07b5c
+ClockD0ckenMsl   a07b5c
+.data   a07b6c
+ClockD0ckenI2c   a07b6c
+.data   a07b7c
+ClockD0ckenGraphics   a07b7c
+.data   a07b8c
+ClockD0ckenMved   a07b8c
+.data   a07b9c
+ClockD0ckenAxiBus   a07b9c
+.data   a07bac
+ClockD0ckenAxiMmcUsb   a07bac
+.data   a07bbc
+Clock13MOutDmd   a07bbc
+.data   a07bcc
+Clock26MOut   a07bcc
+.data   a07bdc
+NumberOfTimers   a07bdc
+TimersPoolSize   a07be0
+EarliestMaxExpiryTime   a07be4
+NumTimersInQueue   a07be8
+MaxNumTimersInQueue   a07bec
+MaxNumPooledTimers   a07bf0
+NumPooledTimers   a07bf4
+Head   a07bf8
+Freelist   a07bfc
+.data   a07c00
+.data   a07c04
+iRebootingState   a07c0c
+.data   a07c10
+.data   a07c14
+numCommandGroups   a07c14
+bugdispCommandFpCookie   a07c18
+.data   a07c1c
+rimLogging   a07c1e
+SendingBacklog   a07c28
+prevConnectedState@CatfailCheckUsbState_0   a07c40
+.data   a07c4c
+ext@BigShowMemory_0   a07c4c
+LastTimestampLogged@AddDeviceSideTimestamp_0   a07c50
+.data   a07c54
+ext@EncodeBigShowMemory_0   a07c54
+.data   a07c58
+.data   a07c5c
+sentWarning@CoreIntEnableInternal_0   a07c5c
+.data   a07c60
+TaskClasses   a07c60
+.data   a07c78
+stack@DeadlockDetectPeriodic_0   a07c78
+DeadlockVector   a07c7e
+.data   a07c84
+pfCmdCount   a07c84
+vfCmdCount   a07c86
+.data   a07c88
+FrameworkInit   a07c88
+DebugDrv   a07c8c
+DebugLevel   a07c90
+IODriverTable   a07c94
+.data   a07ce8
+escapeMode   a07ce8
+SerialCommandList   a07cec
+.data   a07df4
+addr@DrvFwkI2cDebug_0   a07df4
+bus@DrvFwkI2cDebug_1   a07df8
+.data   a07dfc
+.data   a07e00
+mfpr_lookuptable   a07e00
+.data   a08718
+ClkLookupTable   a08718
+.data   a08a30
+lcdWrClkMhz   a08a30
+lcdRdClkMhz   a08a32
+dispcParallelRegInitValue   a08a34
+.data   a08b14
+_strtok_saves1   a08b14
+OsDataGenericHeap   a08b18
+kernelHeap   a08b18
+OsDataIsr   a08b48
+LastIrqNum   a08b48
+IntCtrlHandlers   a08b4c
+OsDataIsr   a08d14
+OsDataKernelServCore   a08fb8
+OsDataKernelServCore   a08fc4
+flags   a08fc4
+OsDataKernelServCore   a09084
+OsDataKernelServCore   a09088
+OsDataKernelServCore   a0908c
+OsDataKernelServCore   a09090
+semaphoreHeap   a09090
+OsDataKernelServCore   a090b8
+mutexHeap   a090b8
+OsDataPreserve   a09108
+ResetIndicator   a09108
+SlowTaskStacks   a09110
+UsbBuffers   a0a800
+QhArray   a0a800
+EpInTdArray   a0a980
+EpOutTdArray   a0ace0
+EpZlpTdArray   a0b040
+mergeBuffer   a0b100
+.bss   a0b700
+.bss   a0b744
+buf   a0b744
+mask   a0b7c4
+thresh   a0b7e4
+device   a0b804
+event   a0b824
+task   a0b844
+notified   a0b854
+.bss   a0b874
+listEntries@LazyInit_0   a0b874
+callPool   a0b964
+freeCallPool   a0bf04
+busyCallPool   a0bf10
+.bss   a0bf1c
+PadPropertiesList   a0bf1c
+PadPropertyTypes   a0c068
+.bss   a0c1b4
+GpioInterruptStates   a0c1b4
+.bss   a0c458
+IsSet   a0c458
+MatchValue   a0c46c
+.bss   a0c480
+ReentrancyProtection   a0c480
+semaphoreTimers   a0c48c
+.bss   a0c4e0
+pmTicks   a0c4e0
+.bss   a0c5e0
+controlReadXfer   a0c680
+controlReadBuf   a0c694
+.bss   a0c6a0
+UsbCatfailStatus   a0c6a0
+ctrlRxBuffer@controlChannelOn_0   a0c6c0
+dwCtrlTxBuffer@controlPacketReceived_0   a0cec0
+packet@sendNextPacket_0   a0d6c0
+channel   a0d714
+UsbMuxGenericBuffer   a0e260
+bufferNode   a0ea60
+.bss   a0ef60
+header@UnifiedUsbDebugTaskHandler_1   a0ef60
+.bss   a0f9a0
+RimUsbMuxMergeBuffer   a0f9a0
+RimUsbBugdispAlignedBuffer   a101a0
+usbBufArray   a12384
+.bss   a12500
+.bss   a125fc
+nvCopy@phyTuningValuesInit_1   a125fc
+usbDrvPipes   a12620
+debugLastUsbInts   a12698
+.bss   a126a8
+.bss   a126b4
+Map   a126b4
+Timers   a12904
+.bss   a133b4
+item@ShowBuildInfo_0   a133b4
+item@DebugExtension_0   a133f9
+.bss   a13480
+cmdGroupName   a13480
+cmdGroupHandler   a134d0
+.bss   a13520
+.bss   a53740
+.bss   a53788
+PfCmdList   a53788
+VfCmdList   a538f0
+.bss   a53968
+msgMap   a53968
+.bss   a53b48
+SerialDriver   a53b48
+.bss   a53cdc
+.bss   a53cf8
+RE_GpioInterruptStates   a53cf8
+.bss   a54308
+UartPorts   a54308
+.bss   a54488
+.bss   a54560
+.bss   a54b58
+testSurface   a54b58
+frameBuffer   a54b88
+.bss   ad3488
+lcdDbi8GpioList   ad3488
+.bss   ad34b8
+__rt_locale_data   ad34b8
+MMUSectionTable   ad4000
+MMUSectionTable   ad4000
+MMUCoarsePageTable   ad8000
+MMUCoarsePageTable   ad8000
+.constdata   3200000
+BuildAttributes$$THM_ISAv2$ARM_ISAv5$M$E$P$S$PE$A:L22$X:L11$S22$IEEE1$IW$USESV6$~STKCKD$USESV7$~SHL$OSPACE$IEEEJ$EBA8$STANDARDLIB$REQ8$PRES8$EABIv2   00000000
+AR6000PowerOff   ?????? Undefined, WEAK Reference
+AR6000PowerOn   ?????? Undefined, WEAK Reference
+AR6000Reset   ?????? Undefined, WEAK Reference
+AR6000Start   ?????? Undefined, WEAK Reference
+AR6000Test   ?????? Undefined, WEAK Reference
+AccelerometerDspGrToggle   ?????? Undefined, WEAK Reference
+AccelerometerDspGrVerbose   ?????? Undefined, WEAK Reference
+AdCtrlBwDestroy   ?????? Undefined, WEAK Reference
+AdCtrlBwReserveReq   ?????? Undefined, WEAK Reference
+AdCtrlTest   ?????? Undefined, WEAK Reference
+AppStoreCommit   ?????? Undefined, WEAK Reference
+AppStoreGetData   ?????? Undefined, WEAK Reference
+AppStoreGetDataPtr   ?????? Undefined, WEAK Reference
+AppStoreGetMaxDataSize   ?????? Undefined, WEAK Reference
+AppStoreWrite   ?????? Undefined, WEAK Reference
+ArFlashUpdate   ?????? Undefined, WEAK Reference
+ArmFpuReadCtx   ?????? Undefined, WEAK Reference
+ArmFpuWriteCtx   ?????? Undefined, WEAK Reference
+ArpPrintTable   ?????? Undefined, WEAK Reference
+ArtInit   ?????? Undefined, WEAK Reference
+ArtStart   ?????? Undefined, WEAK Reference
+ArtStop   ?????? Undefined, WEAK Reference
+AtherosTSTest   ?????? Undefined, WEAK Reference
+AudioCameraClick   ?????? Undefined, WEAK Reference
+BKLT_FP_FRACTIONAL   ?????? Undefined, WEAK Reference
+BTCommClosePort   ?????? Undefined, WEAK Reference
+BTCommInit   ?????? Undefined, WEAK Reference
+BTCommOpenPort   ?????? Undefined, WEAK Reference
+BTCommReadBuffer   ?????? Undefined, WEAK Reference
+BTCommReadChar   ?????? Undefined, WEAK Reference
+BTCommSendBuffer   ?????? Undefined, WEAK Reference
+BTCommSendChar   ?????? Undefined, WEAK Reference
+BTCommSettings   ?????? Undefined, WEAK Reference
+BTCommShutdown   ?????? Undefined, WEAK Reference
+BTCommStandbyMode   ?????? Undefined, WEAK Reference
+BTCommTxCount   ?????? Undefined, WEAK Reference
+BTNotifyTaskMsg   ?????? Undefined, WEAK Reference
+BaryonNessusDtsMode   ?????? Undefined, WEAK Reference
+BaryonSuperTunnel   ?????? Undefined, WEAK Reference
+BatteryFailureScreen   ?????? Undefined, WEAK Reference
+BatteryLogFieldIsActive   ?????? Undefined, WEAK Reference
+BatteryLogGetFieldName   ?????? Undefined, WEAK Reference
+BatteryLogGetFieldValue   ?????? Undefined, WEAK Reference
+BatteryLogGetNumberDynamicFields   ?????? Undefined, WEAK Reference
+BeCameraGetOutputResolutions   ?????? Undefined, WEAK Reference
+BkltAreSuspended   ?????? Undefined, WEAK Reference
+BkltFadeAdjust   ?????? Undefined, WEAK Reference
+BkltFadeInProgress   ?????? Undefined, WEAK Reference
+BkltFadeStart   ?????? Undefined, WEAK Reference
+BkltInternalGetBrightness   ?????? Undefined, WEAK Reference
+BkltInternalGetProfile   ?????? Undefined, WEAK Reference
+BkltInternalGetPwm   ?????? Undefined, WEAK Reference
+BkltInternalIsBkltEnabled   ?????? Undefined, WEAK Reference
+BkltOsEvent   ?????? Undefined, WEAK Reference
+BkltOsSetProfile   ?????? Undefined, WEAK Reference
+BkltSuspend   ?????? Undefined, WEAK Reference
+BkltV1Enable   ?????? Undefined, WEAK Reference
+BkltV1SetPwm   ?????? Undefined, WEAK Reference
+BlFlash_Test1   ?????? Undefined, WEAK Reference
+BlScanForBadBlocks   ?????? Undefined, WEAK Reference
+BlockAddr   ?????? Undefined, WEAK Reference
+BlockErase   ?????? Undefined, WEAK Reference
+BlockEraseAsync   ?????? Undefined, WEAK Reference
+BlockGetInfo   ?????? Undefined, WEAK Reference
+BlockInit   ?????? Undefined, WEAK Reference
+BlockNum   ?????? Undefined, WEAK Reference
+BlockWrite   ?????? Undefined, WEAK Reference
+BqMightyRead   ?????? Undefined, WEAK Reference
+BqMightyWrite   ?????? Undefined, WEAK Reference
+BresenhamResizeRGB565   ?????? Undefined, WEAK Reference
+BtAssertThreadMagic   ?????? Undefined, WEAK Reference
+BtDeregisterForStateInfo   ?????? Undefined, WEAK Reference
+BtRFTestMode   ?????? Undefined, WEAK Reference
+BtRegisterForStateInfo   ?????? Undefined, WEAK Reference
+BtSppInitPortEx   ?????? Undefined, WEAK Reference
+BtStpDeletePSKEY   ?????? Undefined, WEAK Reference
+BtStpDumpDatabase   ?????? Undefined, WEAK Reference
+BtStpEraseDatabase   ?????? Undefined, WEAK Reference
+BtStpGetPSKEY   ?????? Undefined, WEAK Reference
+BtStpSetPSKEY   ?????? Undefined, WEAK Reference
+BtTestPcmLoopback   ?????? Undefined, WEAK Reference
+BtUartTestGetStats   ?????? Undefined, WEAK Reference
+BtUartTestResetStats   ?????? Undefined, WEAK Reference
+BtUartTestSendPacket   ?????? Undefined, WEAK Reference
+BtUartTestStart   ?????? Undefined, WEAK Reference
+BtUartTestStop   ?????? Undefined, WEAK Reference
+BtUartVserialMode   ?????? Undefined, WEAK Reference
+BufferPutCharXY   ?????? Undefined, WEAK Reference
+BufferPutStringXY   ?????? Undefined, WEAK Reference
+CBCommClosePort   ?????? Undefined, WEAK Reference
+CBCommDebugPrint   ?????? Undefined, WEAK Reference
+CBCommInit   ?????? Undefined, WEAK Reference
+CBCommOpenPort   ?????? Undefined, WEAK Reference
+CBCommReadBuffer   ?????? Undefined, WEAK Reference
+CBCommReadChar   ?????? Undefined, WEAK Reference
+CBCommSendBuffer   ?????? Undefined, WEAK Reference
+CBCommSendChar   ?????? Undefined, WEAK Reference
+CacheExecute   ?????? Undefined, WEAK Reference
+CalculatePartitionSizeWrapper   ?????? Undefined, WEAK Reference
+CamDisableFlash   ?????? Undefined, WEAK Reference
+CamEnableFlash   ?????? Undefined, WEAK Reference
+CamReadAllReg_omni_9655   ?????? Undefined, WEAK Reference
+CamSensorReadAll   ?????? Undefined, WEAK Reference
+CamToggleFlash   ?????? Undefined, WEAK Reference
+CameraFlashReal   ?????? Undefined, WEAK Reference
+CameraGetFrame   ?????? Undefined, WEAK Reference
+CameraGetOption   ?????? Undefined, WEAK Reference
+CameraGetPixelStats   ?????? Undefined, WEAK Reference
+CameraGetViewfinderSize   ?????? Undefined, WEAK Reference
+CameraGrabFrame   ?????? Undefined, WEAK Reference
+CameraReleaseFrame   ?????? Undefined, WEAK Reference
+CameraRunInitializationTests   ?????? Undefined, WEAK Reference
+CameraStartAcquisition   ?????? Undefined, WEAK Reference
+CameraStartTestMode   ?????? Undefined, WEAK Reference
+CameraStopAcquisition   ?????? Undefined, WEAK Reference
+CameraWakeTest   ?????? Undefined, WEAK Reference
+CamifDisable   ?????? Undefined, WEAK Reference
+CatfailDisableLightSensor   ?????? Undefined, WEAK Reference
+CbAuthenticateBattery   ?????? Undefined, WEAK Reference
+CbSlipReceivePacket   ?????? Undefined, WEAK Reference
+CbSlipSendPacket   ?????? Undefined, WEAK Reference
+ChangeLineState   ?????? Undefined, WEAK Reference
+CodeProfileConversion   ?????? Undefined, WEAK Reference
+CodeProfileReset_Thrpt   ?????? Undefined, WEAK Reference
+CodeProfileReset_Time   ?????? Undefined, WEAK Reference
+CodeProfileStart_Thrpt   ?????? Undefined, WEAK Reference
+CodeProfileStart_Time   ?????? Undefined, WEAK Reference
+CodeProfileStop_Thrpt   ?????? Undefined, WEAK Reference
+CodeProfileStop_Time   ?????? Undefined, WEAK Reference
+CommClosePort   ?????? Undefined, WEAK Reference
+CommDeRegisterNotifyPattern   ?????? Undefined, WEAK Reference
+CommEnableDtrFix   ?????? Undefined, WEAK Reference
+CommGetDtr   ?????? Undefined, WEAK Reference
+CommOpenPort   ?????? Undefined, WEAK Reference
+CommReadBuffer   ?????? Undefined, WEAK Reference
+CommReadChar   ?????? Undefined, WEAK Reference
+CommRegisterNotifyPattern   ?????? Undefined, WEAK Reference
+CommSendBuffer   ?????? Undefined, WEAK Reference
+CommSendChar   ?????? Undefined, WEAK Reference
+CommSetDsr   ?????? Undefined, WEAK Reference
+CommSetNotify   ?????? Undefined, WEAK Reference
+CommSettings   ?????? Undefined, WEAK Reference
+CommStandbyMode   ?????? Undefined, WEAK Reference
+CommTxCount   ?????? Undefined, WEAK Reference
+CommWaitForData   ?????? Undefined, WEAK Reference
+ConvertARGBToRGBA   ?????? Undefined, WEAK Reference
+ConvertRGBAToARGB   ?????? Undefined, WEAK Reference
+ConvertToRGB565   ?????? Undefined, WEAK Reference
+CustomSerialTestSuite   ?????? Undefined, WEAK Reference
+DHCPGetNetworkInfo   ?????? Undefined, WEAK Reference
+DbRecover   ?????? Undefined, WEAK Reference
+DebugDumpMempool   ?????? Undefined, WEAK Reference
+DecodeSendCmd_H263Video   ?????? Undefined, WEAK Reference
+DecodeSendCmd_MPEG4Video   ?????? Undefined, WEAK Reference
+Decode_AAC   ?????? Undefined, WEAK Reference
+Decode_Core_MPEG4Video   ?????? Undefined, WEAK Reference
+Decode_H263Video   ?????? Undefined, WEAK Reference
+Decode_WMVVideo   ?????? Undefined, WEAK Reference
+DecoderFree_AAC   ?????? Undefined, WEAK Reference
+DecoderFree_H263Video   ?????? Undefined, WEAK Reference
+DecoderFree_MPEG4Video   ?????? Undefined, WEAK Reference
+DecoderFree_WMVVideo   ?????? Undefined, WEAK Reference
+DecoderInitAlloc_AAC   ?????? Undefined, WEAK Reference
+DecoderInitAlloc_Core_MPEG4Video   ?????? Undefined, WEAK Reference
+DecoderInitAlloc_H263Video   ?????? Undefined, WEAK Reference
+DecoderInitAlloc_MPEG4Video   ?????? Undefined, WEAK Reference
+DecoderInitAlloc_WMVVideo   ?????? Undefined, WEAK Reference
+DisplayFATFSProfile   ?????? Undefined, WEAK Reference
+DnsDeregister   ?????? Undefined, WEAK Reference
+DnsGetResultData   ?????? Undefined, WEAK Reference
+DnsProcessMessage   ?????? Undefined, WEAK Reference
+DnsRegister   ?????? Undefined, WEAK Reference
+DnsResolver   ?????? Undefined, WEAK Reference
+DvfmEnable   ?????? Undefined, WEAK Reference
+EBUSSetReadAddress   ?????? Undefined, WEAK Reference
+EBUSSetWritePattern   ?????? Undefined, WEAK Reference
+EScreenDoAction   ?????? Undefined, WEAK Reference
+EScreenGetItemData   ?????? Undefined, WEAK Reference
+EScreenGetItemInfo   ?????? Undefined, WEAK Reference
+EScreenGetMenuInfo   ?????? Undefined, WEAK Reference
+EScreenGetScreenInfo   ?????? Undefined, WEAK Reference
+EScreenKeyPressed   ?????? Undefined, WEAK Reference
+EScreenSetActive   ?????? Undefined, WEAK Reference
+EepromRead   ?????? Undefined, WEAK Reference
+EepromWrite   ?????? Undefined, WEAK Reference
+EnableFastReset   ?????? Undefined, WEAK Reference
+EncodeImage   ?????? Undefined, WEAK Reference
+EncodeInit   ?????? Undefined, WEAK Reference
+Encode_AAC   ?????? Undefined, WEAK Reference
+EncoderFree_AAC   ?????? Undefined, WEAK Reference
+EncoderInitAlloc_AAC   ?????? Undefined, WEAK Reference
+EngDataGetBugdispLog   ?????? Undefined, WEAK Reference
+EngDataGetLikelyResetCause   ?????? Undefined, WEAK Reference
+EngGetCallDropData   ?????? Undefined, WEAK Reference
+EngLcdActivateHiddenTests   ?????? Undefined, WEAK Reference
+EngLcdRegisterTestImage   ?????? Undefined, WEAK Reference
+EraseInternalFlashWrapper   ?????? Undefined, WEAK Reference
+EraseRemainingOSPartitionWrapper   ?????? Undefined, WEAK Reference
+FRCacheCurrentFont   ?????? Undefined, WEAK Reference
+FRClearCache   ?????? Undefined, WEAK Reference
+FRClearScreen   ?????? Undefined, WEAK Reference
+FRDestroyEGL   ?????? Undefined, WEAK Reference
+FRGetNumColumns   ?????? Undefined, WEAK Reference
+FRGetNumRows   ?????? Undefined, WEAK Reference
+FRGetSizeToPixLength   ?????? Undefined, WEAK Reference
+FRGetStringHeight   ?????? Undefined, WEAK Reference
+FRGetStringLength   ?????? Undefined, WEAK Reference
+FRPreRender   ?????? Undefined, WEAK Reference
+FRRenderAndUpdateString   ?????? Undefined, WEAK Reference
+FRRenderAndUpdateSystemText   ?????? Undefined, WEAK Reference
+FRRenderString   ?????? Undefined, WEAK Reference
+FRRenderSystemText   ?????? Undefined, WEAK Reference
+FRSetupEGL   ?????? Undefined, WEAK Reference
+FRUpdate   ?????? Undefined, WEAK Reference
+FSCreatePartition   ?????? Undefined, WEAK Reference
+FSDeletePartition   ?????? Undefined, WEAK Reference
+FSFormat   ?????? Undefined, WEAK Reference
+FSFormatAsync   ?????? Undefined, WEAK Reference
+FSFreeMemoryWatermarkNotifyClear   ?????? Undefined, WEAK Reference
+FSFreeMemoryWatermarkNotifySet   ?????? Undefined, WEAK Reference
+FSGetLanguage   ?????? Undefined, WEAK Reference
+FSGetPartitionInfo   ?????? Undefined, WEAK Reference
+FSMount   ?????? Undefined, WEAK Reference
+FSMountAsync   ?????? Undefined, WEAK Reference
+FSRepair   ?????? Undefined, WEAK Reference
+FSSecureUnusedClusters   ?????? Undefined, WEAK Reference
+FSSecureUnusedClustersAsync   ?????? Undefined, WEAK Reference
+FSSetLanguage   ?????? Undefined, WEAK Reference
+FSUnmount   ?????? Undefined, WEAK Reference
+FileAdvFindFirst   ?????? Undefined, WEAK Reference
+FileAdvFindFirstList   ?????? Undefined, WEAK Reference
+FileAdvFindFirstListW   ?????? Undefined, WEAK Reference
+FileAdvFindFirstW   ?????? Undefined, WEAK Reference
+FileChangeMode   ?????? Undefined, WEAK Reference
+FileCheckEOF   ?????? Undefined, WEAK Reference
+FileClose   ?????? Undefined, WEAK Reference
+FileCommit   ?????? Undefined, WEAK Reference
+FileDelete   ?????? Undefined, WEAK Reference
+FileDeleteAll   ?????? Undefined, WEAK Reference
+FileDeleteTree   ?????? Undefined, WEAK Reference
+FileDeleteTreeW   ?????? Undefined, WEAK Reference
+FileDeleteW   ?????? Undefined, WEAK Reference
+FileDuplicateHandle   ?????? Undefined, WEAK Reference
+FileFindClose   ?????? Undefined, WEAK Reference
+FileFindFirst   ?????? Undefined, WEAK Reference
+FileFindFirstList   ?????? Undefined, WEAK Reference
+FileFindFirstListW   ?????? Undefined, WEAK Reference
+FileFindFirstW   ?????? Undefined, WEAK Reference
+FileFindNext   ?????? Undefined, WEAK Reference
+FileFindNextList   ?????? Undefined, WEAK Reference
+FileGetFSInfo   ?????? Undefined, WEAK Reference
+FileGetInfo   ?????? Undefined, WEAK Reference
+FileGetInfoByName   ?????? Undefined, WEAK Reference
+FileGetInfoByNameW   ?????? Undefined, WEAK Reference
+FileLock   ?????? Undefined, WEAK Reference
+FileMkDir   ?????? Undefined, WEAK Reference
+FileMkDirW   ?????? Undefined, WEAK Reference
+FileOpen   ?????? Undefined, WEAK Reference
+FileOpenW   ?????? Undefined, WEAK Reference
+FileRead   ?????? Undefined, WEAK Reference
+FileRename   ?????? Undefined, WEAK Reference
+FileRenameW   ?????? Undefined, WEAK Reference
+FileRmDir   ?????? Undefined, WEAK Reference
+FileRmDirW   ?????? Undefined, WEAK Reference
+FileSeek   ?????? Undefined, WEAK Reference
+FileSetAttr   ?????? Undefined, WEAK Reference
+FileSetAttrW   ?????? Undefined, WEAK Reference
+FileSetLastModifiedTime   ?????? Undefined, WEAK Reference
+FileSetLastModifiedTimeW   ?????? Undefined, WEAK Reference
+FileTell   ?????? Undefined, WEAK Reference
+FileTruncate   ?????? Undefined, WEAK Reference
+FileWrite   ?????? Undefined, WEAK Reference
+FlashBSNOffset_ram   ?????? Undefined, WEAK Reference
+FlashCheck   ?????? Undefined, WEAK Reference
+FlashConfig   ?????? Undefined, WEAK Reference
+FlashErase   ?????? Undefined, WEAK Reference
+FlashGetMinimumWriteSize   ?????? Undefined, WEAK Reference
+FlashGetOptimalWriteSize   ?????? Undefined, WEAK Reference
+FlashReadTest   ?????? Undefined, WEAK Reference
+FlashResetConfig   ?????? Undefined, WEAK Reference
+FlashSectorSize   ?????? Undefined, WEAK Reference
+FlashWrite   ?????? Undefined, WEAK Reference
+FledgeHandleUnsupportedApi   ?????? Undefined, WEAK Reference
+GcArgonlvInit   ?????? Undefined, WEAK Reference
+GcArgonlvPfResume   ?????? Undefined, WEAK Reference
+GcArgonlvPfStart   ?????? Undefined, WEAK Reference
+GcArgonlvPfWaitForComplete   ?????? Undefined, WEAK Reference
+GcArgonlvRGB565AlphaBlend   ?????? Undefined, WEAK Reference
+GcArgonlvRGB565ColorKey   ?????? Undefined, WEAK Reference
+GcArgonlvRegisterDump   ?????? Undefined, WEAK Reference
+GcArgonlvSetCscCacheInvalidate   ?????? Undefined, WEAK Reference
+GcArgonlvYCbCrToRGB   ?????? Undefined, WEAK Reference
+GcArgonlvYCbCrToRGBAlphaBlend   ?????? Undefined, WEAK Reference
+GcArgonlvYCbCrToRGBColorKey   ?????? Undefined, WEAK Reference
+GcQCOMMMirror   ?????? Undefined, WEAK Reference
+GcQCOMMResize   ?????? Undefined, WEAK Reference
+GcQCOMMRotate   ?????? Undefined, WEAK Reference
+GcTavorAlphaBlend   ?????? Undefined, WEAK Reference
+GcTavorBias   ?????? Undefined, WEAK Reference
+GcTavorChromaKey   ?????? Undefined, WEAK Reference
+GcTavorColourFill   ?????? Undefined, WEAK Reference
+GcTavorDecimate   ?????? Undefined, WEAK Reference
+GcTavorDecimateYUV420   ?????? Undefined, WEAK Reference
+GcTavorPattern   ?????? Undefined, WEAK Reference
+GcTavorRasterCopy   ?????? Undefined, WEAK Reference
+GcTavorRasterCopyYUV420   ?????? Undefined, WEAK Reference
+GcTavorRasterInvert   ?????? Undefined, WEAK Reference
+GcTavorRotate   ?????? Undefined, WEAK Reference
+GcTavorScale   ?????? Undefined, WEAK Reference
+GcTavorStretch   ?????? Undefined, WEAK Reference
+GcTavorStretchYUV420   ?????? Undefined, WEAK Reference
+GenericBlockCompactEx   ?????? Undefined, WEAK Reference
+GenericBlockEraseEx   ?????? Undefined, WEAK Reference
+GenericBlockReadEx   ?????? Undefined, WEAK Reference
+GenericBlockWriteEx   ?????? Undefined, WEAK Reference
+GenericCopyBackEx   ?????? Undefined, WEAK Reference
+GenericHeapBlockAcquireOwnership   ?????? Undefined, WEAK Reference
+GenericHeapBlockAddReference   ?????? Undefined, WEAK Reference
+GenericHeapBlockFree   ?????? Undefined, WEAK Reference
+GenericHeapBlockGetProperties   ?????? Undefined, WEAK Reference
+GenericHeapBlockMalloc   ?????? Undefined, WEAK Reference
+GenericHeapBlockPointerFromHandle   ?????? Undefined, WEAK Reference
+GenericHeapBlockRealloc   ?????? Undefined, WEAK Reference
+GenericHeapBlockRelinquishOwnership   ?????? Undefined, WEAK Reference
+GenericHeapCreate   ?????? Undefined, WEAK Reference
+GenericHeapDebugDump   ?????? Undefined, WEAK Reference
+GenericHeapDelete   ?????? Undefined, WEAK Reference
+GenericHeapFreeMemoryWatermarkNotify   ?????? Undefined, WEAK Reference
+GenericHeapGetMaxAllocSize   ?????? Undefined, WEAK Reference
+GenericHeapGetProperties   ?????? Undefined, WEAK Reference
+GenericHeapGetStatistics   ?????? Undefined, WEAK Reference
+GenericHeapHandleFromHeapBlockHandle   ?????? Undefined, WEAK Reference
+GenericHeapMemoryRemaining   ?????? Undefined, WEAK Reference
+GenericPageReadEx   ?????? Undefined, WEAK Reference
+GenericPageWriteEx   ?????? Undefined, WEAK Reference
+GetBacklightBrightness   ?????? Undefined, WEAK Reference
+GetBacklightBrightnessPercent   ?????? Undefined, WEAK Reference
+GetBlockDevice   ?????? Undefined, WEAK Reference
+GetCommsQuality   ?????? Undefined, WEAK Reference
+GetCurrentWLANLinkState   ?????? Undefined, WEAK Reference
+GetEntryPointProfileData   ?????? Undefined, WEAK Reference
+GetFunlightLedBrightnessPercent   ?????? Undefined, WEAK Reference
+GetOSInfoWrapper   ?????? Undefined, WEAK Reference
+GetSectorInfoWrapper   ?????? Undefined, WEAK Reference
+GpsEnableUartTest   ?????? Undefined, WEAK Reference
+GpsGetUartTestStats   ?????? Undefined, WEAK Reference
+GspClockConfigure   ?????? Undefined, WEAK Reference
+GspClockStart   ?????? Undefined, WEAK Reference
+GspClockStop   ?????? Undefined, WEAK Reference
+HwDelayWrapper   ?????? Undefined, WEAK Reference
+I2cInitialisePort   ?????? Undefined, WEAK Reference
+Image$$BR_PRESERVED_DATA$$ZI$$Base   ?????? Undefined, WEAK Reference
+Image$$BR_PRESERVED_DATA$$ZI$$Length   ?????? Undefined, WEAK Reference
+InitAppStoreSystem   ?????? Undefined, WEAK Reference
+InitFATFSProfile   ?????? Undefined, WEAK Reference
+InitializeProfileDB   ?????? Undefined, WEAK Reference
+InitiateSSIDScan   ?????? Undefined, WEAK Reference
+IntDisableNoProfile   ?????? Undefined, WEAK Reference
+IntEnableNoProfile   ?????? Undefined, WEAK Reference
+IntMelodyAdjustGain   ?????? Undefined, WEAK Reference
+IntMelodySetExternalBoost   ?????? Undefined, WEAK Reference
+IntMelodySetExternalGain   ?????? Undefined, WEAK Reference
+IntMelodySetLedPwm   ?????? Undefined, WEAK Reference
+IntMelodySetVibPwm   ?????? Undefined, WEAK Reference
+InternalGetBacklightBrightness   ?????? Undefined, WEAK Reference
+InternalGetMaxBrightness   ?????? Undefined, WEAK Reference
+InternalGetSuperBrightness   ?????? Undefined, WEAK Reference
+InvalidateHashCacheWrapper   ?????? Undefined, WEAK Reference
+IoTaskGetTimer   ?????? Undefined, WEAK Reference
+IoTaskQueueTimer   ?????? Undefined, WEAK Reference
+IppVideoMMGetCallbackTable   ?????? Undefined, WEAK Reference
+IsBuiltInOverlayIconSupported   ?????? Undefined, WEAK Reference
+IsBuiltInOverlayIconsSupported   ?????? Undefined, WEAK Reference
+IsLightSensorAsleep   ?????? Undefined, WEAK Reference
+IsPointerValidWrapper   ?????? Undefined, WEAK Reference
+LastBlockNum   ?????? Undefined, WEAK Reference
+LcdBitBlt   ?????? Undefined, WEAK Reference
+LcdBitBltInt   ?????? Undefined, WEAK Reference
+LcdBitBltToLcdBuffer   ?????? Undefined, WEAK Reference
+LcdBitBltToLcdBufferInt   ?????? Undefined, WEAK Reference
+LcdChangeDisplayOrientation   ?????? Undefined, WEAK Reference
+LcdClearDisplay   ?????? Undefined, WEAK Reference
+LcdClearDisplayInt   ?????? Undefined, WEAK Reference
+LcdControl   ?????? Undefined, WEAK Reference
+LcdCycleTestPatterns   ?????? Undefined, WEAK Reference
+LcdDisplayBuiltInOverlayIcon   ?????? Undefined, WEAK Reference
+LcdDisplayHourglass   ?????? Undefined, WEAK Reference
+LcdDrawBox   ?????? Undefined, WEAK Reference
+LcdDrawLine   ?????? Undefined, WEAK Reference
+LcdDrawLineInt   ?????? Undefined, WEAK Reference
+LcdEnableHourglass   ?????? Undefined, WEAK Reference
+LcdGetBuffer   ?????? Undefined, WEAK Reference
+LcdGetConfig   ?????? Undefined, WEAK Reference
+LcdGetContrast   ?????? Undefined, WEAK Reference
+LcdGetDisplayId   ?????? Undefined, WEAK Reference
+LcdGetNumDisplays   ?????? Undefined, WEAK Reference
+LcdGetPowerSavingFeatures   ?????? Undefined, WEAK Reference
+LcdGetPowerSavingMode   ?????? Undefined, WEAK Reference
+LcdGetSnapshot   ?????? Undefined, WEAK Reference
+LcdGetStringWidth   ?????? Undefined, WEAK Reference
+LcdIconsEnabled   ?????? Undefined, WEAK Reference
+LcdJavaAppsStartupProgress   ?????? Undefined, WEAK Reference
+LcdLockScreenArea   ?????? Undefined, WEAK Reference
+LcdPasteIcons   ?????? Undefined, WEAK Reference
+LcdPutStringXY   ?????? Undefined, WEAK Reference
+LcdPutStringXYInt   ?????? Undefined, WEAK Reference
+LcdQueryDisplayOrientation   ?????? Undefined, WEAK Reference
+LcdScreenContext   ?????? Undefined, WEAK Reference
+LcdSetColour   ?????? Undefined, WEAK Reference
+LcdSetColourInt   ?????? Undefined, WEAK Reference
+LcdSetContrast   ?????? Undefined, WEAK Reference
+LcdSetCurrentFont   ?????? Undefined, WEAK Reference
+LcdSetDefaultThemeImage   ?????? Undefined, WEAK Reference
+LcdSetFont   ?????? Undefined, WEAK Reference
+LcdSetIcon   ?????? Undefined, WEAK Reference
+LcdSetIconPosition   ?????? Undefined, WEAK Reference
+LcdSetPowerSavingMode   ?????? Undefined, WEAK Reference
+LcdSetSynchronization   ?????? Undefined, WEAK Reference
+LcdSetThemeImage   ?????? Undefined, WEAK Reference
+LcdSetupPartialDisplayMode   ?????? Undefined, WEAK Reference
+LcdTestCommand   ?????? Undefined, WEAK Reference
+LcdUnlockScreenArea   ?????? Undefined, WEAK Reference
+LcdUpdate   ?????? Undefined, WEAK Reference
+LcdUpdateColour   ?????? Undefined, WEAK Reference
+LcdUpdateFrame   ?????? Undefined, WEAK Reference
+LcdUpdateInt   ?????? Undefined, WEAK Reference
+LightSensorEnableUpdateMsg   ?????? Undefined, WEAK Reference
+LightSensorFactoryAutoBkltEnable   ?????? Undefined, WEAK Reference
+LightSensorGetCfg   ?????? Undefined, WEAK Reference
+LightSensorSetCfg   ?????? Undefined, WEAK Reference
+LightSensorSleep   ?????? Undefined, WEAK Reference
+LogDisableAll   ?????? Undefined, WEAK Reference
+LogEnable   ?????? Undefined, WEAK Reference
+LogSetLevel   ?????? Undefined, WEAK Reference
+MCT_GetNextEntry   ?????? Undefined, WEAK Reference
+MediaRecorderLimit   ?????? Undefined, WEAK Reference
+MemPoolCreate   ?????? Undefined, WEAK Reference
+MemPoolDelete   ?????? Undefined, WEAK Reference
+MemPoolFree   ?????? Undefined, WEAK Reference
+MemPoolGetBlockSize   ?????? Undefined, WEAK Reference
+MemPoolGetMaxAllocSize   ?????? Undefined, WEAK Reference
+MemPoolGetSize   ?????? Undefined, WEAK Reference
+MemPoolGetStartAddr   ?????? Undefined, WEAK Reference
+MemPoolGetWatermark   ?????? Undefined, WEAK Reference
+MemPoolMalloc   ?????? Undefined, WEAK Reference
+MemPoolMallocTag   ?????? Undefined, WEAK Reference
+MemPoolMemoryRemaining   ?????? Undefined, WEAK Reference
+MemPoolsAvailable   ?????? Undefined, WEAK Reference
+MixerPcmRequestDownlinkData   ?????? Undefined, WEAK Reference
+NANDBlockFlashInit   ?????? Undefined, WEAK Reference
+NANDFlashErase   ?????? Undefined, WEAK Reference
+NANDFlashRead   ?????? Undefined, WEAK Reference
+NANDFlashReadSpareFree   ?????? Undefined, WEAK Reference
+NANDFlashReadSpareWord   ?????? Undefined, WEAK Reference
+NANDFlashWrite   ?????? Undefined, WEAK Reference
+NANDFlashWriteSpareFree   ?????? Undefined, WEAK Reference
+NANDFlashWriteSpareWord   ?????? Undefined, WEAK Reference
+NoBatteryDisable   ?????? Undefined, WEAK Reference
+NoBatteryEnable   ?????? Undefined, WEAK Reference
+NvDeleteAllNonRadioCalRecords   ?????? Undefined, WEAK Reference
+NvDeleteMultiRecord   ?????? Undefined, WEAK Reference
+NvGetMultiRecordCopy   ?????? Undefined, WEAK Reference
+NvInit   ?????? Undefined, WEAK Reference
+NvInitMultiRecord   ?????? Undefined, WEAK Reference
+NvRecordExists   ?????? Undefined, WEAK Reference
+NvUpdateMultiRecord   ?????? Undefined, WEAK Reference
+NvffClose   ?????? Undefined, WEAK Reference
+NvffCreate   ?????? Undefined, WEAK Reference
+NvffDelete   ?????? Undefined, WEAK Reference
+NvffGetLength   ?????? Undefined, WEAK Reference
+NvffOpen   ?????? Undefined, WEAK Reference
+NvffRead   ?????? Undefined, WEAK Reference
+NvffSeek   ?????? Undefined, WEAK Reference
+NvffTell   ?????? Undefined, WEAK Reference
+NvffWrite   ?????? Undefined, WEAK Reference
+OS_DDRAllocateCache   ?????? Undefined, WEAK Reference
+OS_DDRAllocateNonCache   ?????? Undefined, WEAK Reference
+OS_FlushCache   ?????? Undefined, WEAK Reference
+OS_Free   ?????? Undefined, WEAK Reference
+OS_FreeGen   ?????? Undefined, WEAK Reference
+OS_MallocGen   ?????? Undefined, WEAK Reference
+OS_Memset   ?????? Undefined, WEAK Reference
+OS_SRAMAllocateCache   ?????? Undefined, WEAK Reference
+OS_SRAMAllocateNonCache   ?????? Undefined, WEAK Reference
+OS_vAddr2pAddr   ?????? Undefined, WEAK Reference
+OmxCameraFinalizeRecording   ?????? Undefined, WEAK Reference
+OmxCameraRecordToFile   ?????? Undefined, WEAK Reference
+OmxCameraSetFps   ?????? Undefined, WEAK Reference
+OmxCameraSetInputFile   ?????? Undefined, WEAK Reference
+OmxCameraStartRecording   ?????? Undefined, WEAK Reference
+OmxCameraStartVideoViewfinder   ?????? Undefined, WEAK Reference
+OmxCameraStopRecording   ?????? Undefined, WEAK Reference
+OmxMediaRecordingPause   ?????? Undefined, WEAK Reference
+OmxMediaRecordingResume   ?????? Undefined, WEAK Reference
+OmxMediaRecordingStop   ?????? Undefined, WEAK Reference
+OsAlternateStackCall   ?????? Undefined, WEAK Reference
+OsTurnBacklightsOff   ?????? Undefined, WEAK Reference
+PCLoopbackTestSuite   ?????? Undefined, WEAK Reference
+PCMCIAReadAttribWord   ?????? Undefined, WEAK Reference
+PCMCIAReadIOWord   ?????? Undefined, WEAK Reference
+PCMCIAWriteAttribWord   ?????? Undefined, WEAK Reference
+PCMCIAWriteIOWord   ?????? Undefined, WEAK Reference
+PDAEepromRead   ?????? Undefined, WEAK Reference
+PDA_Locate   ?????? Undefined, WEAK Reference
+PDA_Update   ?????? Undefined, WEAK Reference
+PDA_Verify   ?????? Undefined, WEAK Reference
+PerfmonCaptureStats   ?????? Undefined, WEAK Reference
+PerfmonClearEnabledStats   ?????? Undefined, WEAK Reference
+PerfmonConfigStat   ?????? Undefined, WEAK Reference
+PerfmonCycleCounterTickRateHertz   ?????? Undefined, WEAK Reference
+PerfmonDeregisterUser   ?????? Undefined, WEAK Reference
+PerfmonDisableStats   ?????? Undefined, WEAK Reference
+PerfmonEnableStat   ?????? Undefined, WEAK Reference
+PerfmonInit   ?????? Undefined, WEAK Reference
+PerfmonNumDynamicStats   ?????? Undefined, WEAK Reference
+PerfmonPrintCounters   ?????? Undefined, WEAK Reference
+PerfmonReadStat   ?????? Undefined, WEAK Reference
+PerfmonReadStats   ?????? Undefined, WEAK Reference
+PerfmonRegisterUser   ?????? Undefined, WEAK Reference
+PerfmonResetStats   ?????? Undefined, WEAK Reference
+PerfmonStart   ?????? Undefined, WEAK Reference
+PerfmonStatSupported   ?????? Undefined, WEAK Reference
+PerfmonStop   ?????? Undefined, WEAK Reference
+PmComputeBatteryCapacity   ?????? Undefined, WEAK Reference
+PmFakeUsbRate   ?????? Undefined, WEAK Reference
+PmGetChargeRate   ?????? Undefined, WEAK Reference
+PmSignalSmartCharger   ?????? Undefined, WEAK Reference
+PmSmStartStop   ?????? Undefined, WEAK Reference
+PmTempCameraFlashCurrent   ?????? Undefined, WEAK Reference
+ProfileBlockReset   ?????? Undefined, WEAK Reference
+ProfileBlockStart   ?????? Undefined, WEAK Reference
+ProfileBlockStop   ?????? Undefined, WEAK Reference
+ProfileCriticalSection   ?????? Undefined, WEAK Reference
+ProxSensorAddObserver   ?????? Undefined, WEAK Reference
+ProxSensorRemoveObserver   ?????? Undefined, WEAK Reference
+QuickTestBlockFS   ?????? Undefined, WEAK Reference
+RTP_setup   ?????? Undefined, WEAK Reference
+Radio3gppGetR99Qos   ?????? Undefined, WEAK Reference
+Radio3gppRegisterApnWithR99Qos   ?????? Undefined, WEAK Reference
+RadioChannelLock   ?????? Undefined, WEAK Reference
+RadioDeregisterApn   ?????? Undefined, WEAK Reference
+RadioForceDataPathReconnect   ?????? Undefined, WEAK Reference
+RadioGetApn   ?????? Undefined, WEAK Reference
+RadioGetApnId   ?????? Undefined, WEAK Reference
+RadioGetCdmaNAI   ?????? Undefined, WEAK Reference
+RadioGetDMMipData   ?????? Undefined, WEAK Reference
+RadioGetDMNamBlock   ?????? Undefined, WEAK Reference
+RadioGetDMPRLField   ?????? Undefined, WEAK Reference
+RadioGetDNSAddress   ?????? Undefined, WEAK Reference
+RadioGetDataServiceMode   ?????? Undefined, WEAK Reference
+RadioGetDrAppEvent   ?????? Undefined, WEAK Reference
+RadioGetICMP   ?????? Undefined, WEAK Reference
+RadioGetIPv4Address   ?????? Undefined, WEAK Reference
+RadioGetIp   ?????? Undefined, WEAK Reference
+RadioGetIpDataStats   ?????? Undefined, WEAK Reference
+RadioGetIpWhole   ?????? Undefined, WEAK Reference
+RadioGetL1State   ?????? Undefined, WEAK Reference
+RadioGetNetworkParam   ?????? Undefined, WEAK Reference
+RadioGetOtaspResponse   ?????? Undefined, WEAK Reference
+RadioGetQos   ?????? Undefined, WEAK Reference
+RadioGetSMSDeliveryTimestamp   ?????? Undefined, WEAK Reference
+RadioGetSms   ?????? Undefined, WEAK Reference
+RadioGetSmsDefaults   ?????? Undefined, WEAK Reference
+RadioGetSmsMaxPacketSize   ?????? Undefined, WEAK Reference
+RadioGetSmsRoute   ?????? Undefined, WEAK Reference
+RadioGetTCP   ?????? Undefined, WEAK Reference
+RadioGetUDP   ?????? Undefined, WEAK Reference
+RadioIsPDPContextActive   ?????? Undefined, WEAK Reference
+RadioProcessCdmaOtasp   ?????? Undefined, WEAK Reference
+RadioProcessDMRequest   ?????? Undefined, WEAK Reference
+RadioReadMagKey   ?????? Undefined, WEAK Reference
+RadioReadSmsParameters   ?????? Undefined, WEAK Reference
+RadioRegisterApn   ?????? Undefined, WEAK Reference
+RadioRegisterTransportPort   ?????? Undefined, WEAK Reference
+RadioSendICMP   ?????? Undefined, WEAK Reference
+RadioSendICMPTestData   ?????? Undefined, WEAK Reference
+RadioSendIp   ?????? Undefined, WEAK Reference
+RadioSendLLCTestData   ?????? Undefined, WEAK Reference
+RadioSendSms   ?????? Undefined, WEAK Reference
+RadioSendTCP   ?????? Undefined, WEAK Reference
+RadioSendUDP   ?????? Undefined, WEAK Reference
+RadioSetDMMipData   ?????? Undefined, WEAK Reference
+RadioSetDMNamBlock   ?????? Undefined, WEAK Reference
+RadioSetDMPRL   ?????? Undefined, WEAK Reference
+RadioSetDataServiceMode   ?????? Undefined, WEAK Reference
+RadioSetFastDormancy   ?????? Undefined, WEAK Reference
+RadioSetPppLinked   ?????? Undefined, WEAK Reference
+RadioSetQos   ?????? Undefined, WEAK Reference
+RadioSetSmsMemRoute   ?????? Undefined, WEAK Reference
+RadioSetSmsRoute   ?????? Undefined, WEAK Reference
+RadioSignalDrAppEvent   ?????? Undefined, WEAK Reference
+RadioSmsGetMaxRecOnMe   ?????? Undefined, WEAK Reference
+RadioSmsSetMaxRecOnMe   ?????? Undefined, WEAK Reference
+RadioSmsSetNumRecOnMe   ?????? Undefined, WEAK Reference
+RadioWriteMagKey   ?????? Undefined, WEAK Reference
+RadioWriteSmsParameters   ?????? Undefined, WEAK Reference
+Raster565To888Copy   ?????? Undefined, WEAK Reference
+Raster565To888Copy_7kmdp2   ?????? Undefined, WEAK Reference
+Raster888To565Copy   ?????? Undefined, WEAK Reference
+RasterARGB8888ToRGB565Copy_7kmdp2   ?????? Undefined, WEAK Reference
+RasterByteSwapCopyC32   ?????? Undefined, WEAK Reference
+RasterCopyC16_7kmdp2   ?????? Undefined, WEAK Reference
+RasterCopyC32   ?????? Undefined, WEAK Reference
+RasterCopyC32_7kmdp2   ?????? Undefined, WEAK Reference
+ResetGetResetPower   ?????? Undefined, WEAK Reference
+ResetGetType   ?????? Undefined, WEAK Reference
+ResetKernelEntrypointData   ?????? Undefined, WEAK Reference
+ResetNow   ?????? Undefined, WEAK Reference
+ResetSoftOverrideClear   ?????? Undefined, WEAK Reference
+ResetSoftOverrideSet   ?????? Undefined, WEAK Reference
+ResizeYUV422   ?????? Undefined, WEAK Reference
+RetrieveCodeProfileThroughput   ?????? Undefined, WEAK Reference
+RetrieveCodeProfileTime   ?????? Undefined, WEAK Reference
+RimArtChangeAntenna   ?????? Undefined, WEAK Reference
+RimArtChangeMode   ?????? Undefined, WEAK Reference
+RimArtContTxtest   ?????? Undefined, WEAK Reference
+RimArtInit   ?????? Undefined, WEAK Reference
+RimArtLinkTest   ?????? Undefined, WEAK Reference
+RimArtUpdateChannel   ?????? Undefined, WEAK Reference
+RimAudioGetVbcReg   ?????? Undefined, WEAK Reference
+RimAudioSetDai   ?????? Undefined, WEAK Reference
+RimAudioSetEcho   ?????? Undefined, WEAK Reference
+RimAudioSetSideTone   ?????? Undefined, WEAK Reference
+RimAudioSetVbcReg   ?????? Undefined, WEAK Reference
+RimAudioStsfToneOff   ?????? Undefined, WEAK Reference
+RimAudioStsfToneOn   ?????? Undefined, WEAK Reference
+RimCheckSemaphoreCount   ?????? Undefined, WEAK Reference
+RimClearNukeStatus   ?????? Undefined, WEAK Reference
+RimCryptArc4Create   ?????? Undefined, WEAK Reference
+RimCryptBlockCreate   ?????? Undefined, WEAK Reference
+RimCryptDecrypt   ?????? Undefined, WEAK Reference
+RimCryptDeleteKey   ?????? Undefined, WEAK Reference
+RimCryptECCCreate   ?????? Undefined, WEAK Reference
+RimCryptECCFVCreate   ?????? Undefined, WEAK Reference
+RimCryptEncrypt   ?????? Undefined, WEAK Reference
+RimCryptFreeContext   ?????? Undefined, WEAK Reference
+RimCryptGenerateKey   ?????? Undefined, WEAK Reference
+RimCryptGetRandomData   ?????? Undefined, WEAK Reference
+RimCryptGetRandomEntropy   ?????? Undefined, WEAK Reference
+RimCryptGetVersion   ?????? Undefined, WEAK Reference
+RimCryptHashAddData   ?????? Undefined, WEAK Reference
+RimCryptHashCreate   ?????? Undefined, WEAK Reference
+RimCryptHashGetDigest   ?????? Undefined, WEAK Reference
+RimCryptHashMACCreate   ?????? Undefined, WEAK Reference
+RimCryptRSACreate   ?????? Undefined, WEAK Reference
+RimCryptRSACreateSmallExponent   ?????? Undefined, WEAK Reference
+RimCryptReleaseKeyPointer   ?????? Undefined, WEAK Reference
+RimCryptRetrieveKeyPointer   ?????? Undefined, WEAK Reference
+RimCryptSHA1   ?????? Undefined, WEAK Reference
+RimCryptStoreKey   ?????? Undefined, WEAK Reference
+RimCryptVerifySignature   ?????? Undefined, WEAK Reference
+RimCryptWaitContext   ?????? Undefined, WEAK Reference
+RimDoXBugdispCommand   ?????? Undefined, WEAK Reference
+RimDumpCurrentEventLog   ?????? Undefined, WEAK Reference
+RimDvfmSetMaxSpeed   ?????? Undefined, WEAK Reference
+RimEventLogAddSafe   ?????? Undefined, WEAK Reference
+RimFastResetAllowed   ?????? Undefined, WEAK Reference
+RimGLGetSupportedAPIs   ?????? Undefined, WEAK Reference
+RimGetAppParameters   ?????? Undefined, WEAK Reference
+RimGetAvailableBatteryStats   ?????? Undefined, WEAK Reference
+RimGetBatteryStats   ?????? Undefined, WEAK Reference
+RimGetBootromMetricsBinary   ?????? Undefined, WEAK Reference
+RimGetBrandingData   ?????? Undefined, WEAK Reference
+RimGetBrandingMaxDataSize   ?????? Undefined, WEAK Reference
+RimGetBrandingPtr   ?????? Undefined, WEAK Reference
+RimGetBuildInfo   ?????? Undefined, WEAK Reference
+RimGetCommPortInfo   ?????? Undefined, WEAK Reference
+RimGetDeviceRandomNumber   ?????? Undefined, WEAK Reference
+RimGetDriverVersion   ?????? Undefined, WEAK Reference
+RimGetHWV   ?????? Undefined, WEAK Reference
+RimGetIdleTime   ?????? Undefined, WEAK Reference
+RimGetInProductionFlag   ?????? Undefined, WEAK Reference
+RimGetLastSlowClockRatio   ?????? Undefined, WEAK Reference
+RimGetLocalizationInfo   ?????? Undefined, WEAK Reference
+RimGetManufacturerInfo   ?????? Undefined, WEAK Reference
+RimGetMemoryInfo   ?????? Undefined, WEAK Reference
+RimGetMetricsBinary   ?????? Undefined, WEAK Reference
+RimGetNetworkTime   ?????? Undefined, WEAK Reference
+RimGetNetworkTimeOffsets   ?????? Undefined, WEAK Reference
+RimGetNukeStatus   ?????? Undefined, WEAK Reference
+RimGetNumberOfFreeTimers   ?????? Undefined, WEAK Reference
+RimGetPackageVersionString   ?????? Undefined, WEAK Reference
+RimGetPasswordFailureCount   ?????? Undefined, WEAK Reference
+RimGetSlowClockRatio   ?????? Undefined, WEAK Reference
+RimGetTaskStackInfo   ?????? Undefined, WEAK Reference
+RimGetUTCAlarm   ?????? Undefined, WEAK Reference
+RimGetUTCTime   ?????? Undefined, WEAK Reference
+RimGetVMStackInfo   ?????? Undefined, WEAK Reference
+RimGetWEPEncryption   ?????? Undefined, WEAK Reference
+RimGpsColdReset   ?????? Undefined, WEAK Reference
+RimGpsLocationAiding   ?????? Undefined, WEAK Reference
+RimGpsTimeAiding   ?????? Undefined, WEAK Reference
+RimHeadsetEnable   ?????? Undefined, WEAK Reference
+RimInitiateReset   ?????? Undefined, WEAK Reference
+RimInitiateResetWithCode   ?????? Undefined, WEAK Reference
+RimIsDeviceCapable   ?????? Undefined, WEAK Reference
+RimIsHeadInSand   ?????? Undefined, WEAK Reference
+RimIsRebooting   ?????? Undefined, WEAK Reference
+RimIsSecurityFeatureEnabled   ?????? Undefined, WEAK Reference
+RimIsSoftwareCapable   ?????? Undefined, WEAK Reference
+RimKillTimer   ?????? Undefined, WEAK Reference
+RimMelodyDecodeStream   ?????? Undefined, WEAK Reference
+RimOsEventLogAdd   ?????? Undefined, WEAK Reference
+RimProfilingMetric   ?????? Undefined, WEAK Reference
+RimProfilingMetricTickRate   ?????? Undefined, WEAK Reference
+RimRebootComplete   ?????? Undefined, WEAK Reference
+RimRequestFullPowerOff   ?????? Undefined, WEAK Reference
+RimRequestPowerOff   ?????? Undefined, WEAK Reference
+RimRequestPowerOn   ?????? Undefined, WEAK Reference
+RimRequestStorageMode   ?????? Undefined, WEAK Reference
+RimResetIdleTime   ?????? Undefined, WEAK Reference
+RimResetPassword   ?????? Undefined, WEAK Reference
+RimRtpConnect   ?????? Undefined, WEAK Reference
+RimRtpDisconnect   ?????? Undefined, WEAK Reference
+RimRtpDtmf   ?????? Undefined, WEAK Reference
+RimRtpRadioData   ?????? Undefined, WEAK Reference
+RimRtpStartDtmf   ?????? Undefined, WEAK Reference
+RimRtpStartLocalDtmf   ?????? Undefined, WEAK Reference
+RimRtpStopDtmf   ?????? Undefined, WEAK Reference
+RimRtpStopLocalDtmf   ?????? Undefined, WEAK Reference
+RimSHA1Hash   ?????? Undefined, WEAK Reference
+RimSetAuthenticationSeed   ?????? Undefined, WEAK Reference
+RimSetBacklightBrightnessPercent   ?????? Undefined, WEAK Reference
+RimSetHIS   ?????? Undefined, WEAK Reference
+RimSetJvmState   ?????? Undefined, WEAK Reference
+RimSetNativeTimer   ?????? Undefined, WEAK Reference
+RimSetPassword   ?????? Undefined, WEAK Reference
+RimSetTimeZone   ?????? Undefined, WEAK Reference
+RimSetTouchScreenClickableRegions   ?????? Undefined, WEAK Reference
+RimSetUTCAlarm   ?????? Undefined, WEAK Reference
+RimSetUTCTime   ?????? Undefined, WEAK Reference
+RimSuppressSecurityFeature   ?????? Undefined, WEAK Reference
+RimTimerCreate   ?????? Undefined, WEAK Reference
+RimTimerDelete   ?????? Undefined, WEAK Reference
+RimTimerGetHandle   ?????? Undefined, WEAK Reference
+RimTimerStart   ?????? Undefined, WEAK Reference
+RimTimerStop   ?????? Undefined, WEAK Reference
+RimVclickEnableDynamicNormalizing   ?????? Undefined, WEAK Reference
+RimVclickGetClickThreshold   ?????? Undefined, WEAK Reference
+RimVclickGetUnclickThreshold   ?????? Undefined, WEAK Reference
+RimVclickResetBaseline   ?????? Undefined, WEAK Reference
+RimVclickSetClickThreshold   ?????? Undefined, WEAK Reference
+RimVclickSetUnclickThreshold   ?????? Undefined, WEAK Reference
+RimVerifyPassword   ?????? Undefined, WEAK Reference
+RimVerifyPasswordChallenge   ?????? Undefined, WEAK Reference
+RimVerifyPasswords   ?????? Undefined, WEAK Reference
+SDCardEraseBlocks   ?????? Undefined, WEAK Reference
+SDCardFSInit   ?????? Undefined, WEAK Reference
+SDCardLogClear   ?????? Undefined, WEAK Reference
+SDCardLogClose   ?????? Undefined, WEAK Reference
+SDCardLogGetNumLogs   ?????? Undefined, WEAK Reference
+SDCardLogOpen   ?????? Undefined, WEAK Reference
+SDCardLogRemoveLogs   ?????? Undefined, WEAK Reference
+SDCardLogRemoveOldest   ?????? Undefined, WEAK Reference
+SDCardLogSpeedTest   ?????? Undefined, WEAK Reference
+SDCardLogWrite   ?????? Undefined, WEAK Reference
+SDCardReadSectors   ?????? Undefined, WEAK Reference
+SDCardWriteSectors   ?????? Undefined, WEAK Reference
+SDChangeClockSpeed   ?????? Undefined, WEAK Reference
+SDClose   ?????? Undefined, WEAK Reference
+SDErase   ?????? Undefined, WEAK Reference
+SDGetBlockCount   ?????? Undefined, WEAK Reference
+SDGetBlockLength   ?????? Undefined, WEAK Reference
+SDGetBusWidth   ?????? Undefined, WEAK Reference
+SDGetCIDRegister   ?????? Undefined, WEAK Reference
+SDGetCSDRegister   ?????? Undefined, WEAK Reference
+SDGetCurrentMMCPartition   ?????? Undefined, WEAK Reference
+SDGetEraseLength   ?????? Undefined, WEAK Reference
+SDGetFeaturesSupported   ?????? Undefined, WEAK Reference
+SDGetMMCBootPartitionSize   ?????? Undefined, WEAK Reference
+SDGetMMCSmartReport   ?????? Undefined, WEAK Reference
+SDGetOwnership   ?????? Undefined, WEAK Reference
+SDGetPort   ?????? Undefined, WEAK Reference
+SDGetReliableWriteSize   ?????? Undefined, WEAK Reference
+SDGetSCRRegister   ?????? Undefined, WEAK Reference
+SDIODisableFunction   ?????? Undefined, WEAK Reference
+SDIODisableInt   ?????? Undefined, WEAK Reference
+SDIOEnableFastMode   ?????? Undefined, WEAK Reference
+SDIOEnableFunction   ?????? Undefined, WEAK Reference
+SDIOEnableInt   ?????? Undefined, WEAK Reference
+SDIOGetRWLock   ?????? Undefined, WEAK Reference
+SDIOIntFunction   ?????? Undefined, WEAK Reference
+SDIOReadDirect   ?????? Undefined, WEAK Reference
+SDIORegisterTask   ?????? Undefined, WEAK Reference
+SDIOReleaseRWLock   ?????? Undefined, WEAK Reference
+SDIOWriteDirect   ?????? Undefined, WEAK Reference
+SDInitHw   ?????? Undefined, WEAK Reference
+SDMemSpeedTest   ?????? Undefined, WEAK Reference
+SDOpen   ?????? Undefined, WEAK Reference
+SDPresent   ?????? Undefined, WEAK Reference
+SDRead   ?????? Undefined, WEAK Reference
+SDReturnOwnership   ?????? Undefined, WEAK Reference
+SDSecureErase   ?????? Undefined, WEAK Reference
+SDSecureTrimCommit   ?????? Undefined, WEAK Reference
+SDSecureTrimMark   ?????? Undefined, WEAK Reference
+SDSetBlockLength   ?????? Undefined, WEAK Reference
+SDSetBusWidth   ?????? Undefined, WEAK Reference
+SDSetCurrentMMCPartition   ?????? Undefined, WEAK Reference
+SDSetMMCBootPartitionSize   ?????? Undefined, WEAK Reference
+SDTrim   ?????? Undefined, WEAK Reference
+SDWrite   ?????? Undefined, WEAK Reference
+SDWriteProtect   ?????? Undefined, WEAK Reference
+SDWriteReliable   ?????? Undefined, WEAK Reference
+STPCameraGetStats   ?????? Undefined, WEAK Reference
+SecureBatteryCheck   ?????? Undefined, WEAK Reference
+SerialLoopbackTestSuite   ?????? Undefined, WEAK Reference
+SetBacklightBrightnessStp   ?????? Undefined, WEAK Reference
+SetBacklightStp   ?????? Undefined, WEAK Reference
+SetBaryonSuperTunnelMode   ?????? Undefined, WEAK Reference
+SetFunlightLedBrightnessPercent   ?????? Undefined, WEAK Reference
+SetGPIO   ?????? Undefined, WEAK Reference
+SetGPO   ?????? Undefined, WEAK Reference
+SetHIS   ?????? Undefined, WEAK Reference
+SetNetworkTime   ?????? Undefined, WEAK Reference
+SetNvramBitFlag   ?????? Undefined, WEAK Reference
+SetNvramPersistentBitFlag   ?????? Undefined, WEAK Reference
+SetPDAMode   ?????? Undefined, WEAK Reference
+SetPasswordAuthenticationSeed   ?????? Undefined, WEAK Reference
+SimGetImsi   ?????? Undefined, WEAK Reference
+SimIsUSim   ?????? Undefined, WEAK Reference
+Sip_HandleDeviceRadio   ?????? Undefined, WEAK Reference
+Sip_HandleDeviceTimer   ?????? Undefined, WEAK Reference
+SocHandleBugdispExtension   ?????? Undefined, WEAK Reference
+SpiTxRx32   ?????? Undefined, WEAK Reference
+StopCommMessages   ?????? Undefined, WEAK Reference
+Stun_HandleDeviceRadio   ?????? Undefined, WEAK Reference
+SuspendBacklightsAndLcdForCameraFlash   ?????? Undefined, WEAK Reference
+SystemFree   ?????? Undefined, WEAK Reference
+SystemGetMaxAllocSize   ?????? Undefined, WEAK Reference
+SystemMalloc   ?????? Undefined, WEAK Reference
+SystemMemoryRemaining   ?????? Undefined, WEAK Reference
+TNETW1253DriverStart   ?????? Undefined, WEAK Reference
+TNETW1253DriverStop   ?????? Undefined, WEAK Reference
+TNETW1253InitHw   ?????? Undefined, WEAK Reference
+TNETW1253PowerOff   ?????? Undefined, WEAK Reference
+TNETW1253PowerOn   ?????? Undefined, WEAK Reference
+TNETW1253Reset   ?????? Undefined, WEAK Reference
+TNETW1253TriggerFailure   ?????? Undefined, WEAK Reference
+TestDmaChainedTransfer   ?????? Undefined, WEAK Reference
+TestDmaGetUncacheableBuffers   ?????? Undefined, WEAK Reference
+TestEarBud   ?????? Undefined, WEAK Reference
+TiDrv_AbortScan   ?????? Undefined, WEAK Reference
+TiDrv_Disassociate   ?????? Undefined, WEAK Reference
+TiDrv_GetWlanMAC   ?????? Undefined, WEAK Reference
+TiDrv_ReadINI   ?????? Undefined, WEAK Reference
+TiDrv_ReadNVS   ?????? Undefined, WEAK Reference
+TiDrv_SetBssid   ?????? Undefined, WEAK Reference
+TiDrv_SetSsid   ?????? Undefined, WEAK Reference
+TiDrv_SetWlanMAC   ?????? Undefined, WEAK Reference
+TiDrv_Start   ?????? Undefined, WEAK Reference
+TiDrv_StartScan   ?????? Undefined, WEAK Reference
+TiDrv_Stop   ?????? Undefined, WEAK Reference
+TiDrv_TriggerFailure   ?????? Undefined, WEAK Reference
+TiDrv_TriggerRecovery   ?????? Undefined, WEAK Reference
+TiDrv_WriteImages   ?????? Undefined, WEAK Reference
+TiPltP2GCal   ?????? Undefined, WEAK Reference
+TimerReadHwRTC   ?????? Undefined, WEAK Reference
+TimerReadShortHwRTC   ?????? Undefined, WEAK Reference
+ToAnsi   ?????? Undefined, WEAK Reference
+TouchScreenDeleteObject   ?????? Undefined, WEAK Reference
+TouchScreenEnable   ?????? Undefined, WEAK Reference
+TouchScreenIsEnabled   ?????? Undefined, WEAK Reference
+TouchScreenRegisterObject   ?????? Undefined, WEAK Reference
+TrackballGetVirtualSize   ?????? Undefined, WEAK Reference
+TrackballSetVirtualAlgorithm   ?????? Undefined, WEAK Reference
+TrackballSetVirtualSizeLarge   ?????? Undefined, WEAK Reference
+TrackballSetVirtualSizeSmall   ?????? Undefined, WEAK Reference
+TxIpFrame   ?????? Undefined, WEAK Reference
+UsbEncryptChannel   ?????? Undefined, WEAK Reference
+UsbEncryptSetKeyName   ?????? Undefined, WEAK Reference
+UsbIsFeatureActive   ?????? Undefined, WEAK Reference
+UsbMSPropertiesFS   ?????? Undefined, WEAK Reference
+UsbMassStorageProperties   ?????? Undefined, WEAK Reference
+UsbRedirectedPasswordChallenge   ?????? Undefined, WEAK Reference
+UsbSerClosePort   ?????? Undefined, WEAK Reference
+UsbSerGetDtr   ?????? Undefined, WEAK Reference
+UsbSerOpenPort   ?????? Undefined, WEAK Reference
+UsbSerPrintDebugData   ?????? Undefined, WEAK Reference
+UsbSerReadBuffer   ?????? Undefined, WEAK Reference
+UsbSerReadChar   ?????? Undefined, WEAK Reference
+UsbSerSendBuffer   ?????? Undefined, WEAK Reference
+UsbSerSendChar   ?????? Undefined, WEAK Reference
+UsbSerSetDsr   ?????? Undefined, WEAK Reference
+UsbSerStandbyMode   ?????? Undefined, WEAK Reference
+UsbSerTxCount   ?????? Undefined, WEAK Reference
+UsbSetFunctionality   ?????? Undefined, WEAK Reference
+UsbWaitForEvent   ?????? Undefined, WEAK Reference
+VClickGetAlgorithmName   ?????? Undefined, WEAK Reference
+VClickGetConfigBits   ?????? Undefined, WEAK Reference
+VClickGetCurrentAlgorithm   ?????? Undefined, WEAK Reference
+VClickGetEscreenInfo   ?????? Undefined, WEAK Reference
+VClickGetSensorLayout   ?????? Undefined, WEAK Reference
+VClickGetSupportedAlgorithms   ?????? Undefined, WEAK Reference
+VClickHwIsPowerManagementEnabled   ?????? Undefined, WEAK Reference
+VClickHwPowerManagementEnable   ?????? Undefined, WEAK Reference
+VClickHwSamplingPeriod   ?????? Undefined, WEAK Reference
+VClickPMSMGetState   ?????? Undefined, WEAK Reference
+VClickPMSMHandleEvent   ?????? Undefined, WEAK Reference
+VClickSetConfigBits   ?????? Undefined, WEAK Reference
+VClickSetCurrentAlgorithm   ?????? Undefined, WEAK Reference
+VClickSetMicroClick   ?????? Undefined, WEAK Reference
+VClickSetTouchResponseEnabled   ?????? Undefined, WEAK Reference
+VClickStartVibrate   ?????? Undefined, WEAK Reference
+VClickStopVibrate   ?????? Undefined, WEAK Reference
+VClickTestResetLatencyAlgo   ?????? Undefined, WEAK Reference
+VerifyOSSignature_InternalWrapper   ?????? Undefined, WEAK Reference
+VerifyOsApiVersion   ?????? Undefined, WEAK Reference
+VirtualTrackballGetMargin   ?????? Undefined, WEAK Reference
+VirtualTrackballGetMode   ?????? Undefined, WEAK Reference
+VirtualTrackballRegisterSizeChangeCb   ?????? Undefined, WEAK Reference
+VirtualTrackballSetArea   ?????? Undefined, WEAK Reference
+VirtualTrackballSetMargin   ?????? Undefined, WEAK Reference
+VirtualTrackballSetMode   ?????? Undefined, WEAK Reference
+VocoderTestCommand   ?????? Undefined, WEAK Reference
+WBAcquire   ?????? Undefined, WEAK Reference
+WBAdjustHeadroom   ?????? Undefined, WEAK Reference
+WBAlloc   ?????? Undefined, WEAK Reference
+WBFree   ?????? Undefined, WEAK Reference
+WBListFree   ?????? Undefined, WEAK Reference
+WBSetDataLength   ?????? Undefined, WEAK Reference
+WBSetDataOffset   ?????? Undefined, WEAK Reference
+WBTestAndAcquire   ?????? Undefined, WEAK Reference
+WLANGetCurrChannel   ?????? Undefined, WEAK Reference
+WLANGetCurrentBSSID   ?????? Undefined, WEAK Reference
+WLANGetCurrentSSID   ?????? Undefined, WEAK Reference
+WLANLinkDispatchMessage   ?????? Undefined, WEAK Reference
+WLANRegisterCallback   ?????? Undefined, WEAK Reference
+WLANRegisterTask   ?????? Undefined, WEAK Reference
+WLANSend   ?????? Undefined, WEAK Reference
+WLANSetParam   ?????? Undefined, WEAK Reference
+WafDataSend   ?????? Undefined, WEAK Reference
+WlanLlcSendPackets   ?????? Undefined, WEAK Reference
+WlanRadioIsOn   ?????? Undefined, WEAK Reference
+WlanRadioStart   ?????? Undefined, WEAK Reference
+WlanRadioStop   ?????? Undefined, WEAK Reference
+WmDrmInstallObj   ?????? Undefined, WEAK Reference
+WriteNewMCTWrapper   ?????? Undefined, WEAK Reference
+WritePDAToSEEPROM   ?????? Undefined, WEAK Reference
+WteUsbAddRxBuffer   ?????? Undefined, WEAK Reference
+WteUsbEndConnection   ?????? Undefined, WEAK Reference
+WteUsbGetData   ?????? Undefined, WEAK Reference
+WteUsbOpenChannel   ?????? Undefined, WEAK Reference
+WteUsbSendData   ?????? Undefined, WEAK Reference
+WteUsbStartConnection   ?????? Undefined, WEAK Reference
+__fpl_infinity   ?????? Undefined, WEAK Reference
+__libspace_start   ?????? Undefined, WEAK Reference
+__rt_SIGABRT_inner   ?????? Undefined, WEAK Reference
+__rt_SIGCPPL_inner   ?????? Undefined, WEAK Reference
+__rt_SIGILL_inner   ?????? Undefined, WEAK Reference
+__rt_SIGINT_inner   ?????? Undefined, WEAK Reference
+__rt_SIGPVFN_inner   ?????? Undefined, WEAK Reference
+__rt_SIGRTMEM_inner   ?????? Undefined, WEAK Reference
+__rt_SIGRTRED_inner   ?????? Undefined, WEAK Reference
+__rt_SIGSEGV_inner   ?????? Undefined, WEAK Reference
+__rt_SIGSTAK_inner   ?????? Undefined, WEAK Reference
+__rt_SIGTERM_inner   ?????? Undefined, WEAK Reference
+__rt_SIGUSR1_inner   ?????? Undefined, WEAK Reference
+__rt_SIGUSR2_inner   ?????? Undefined, WEAK Reference
+__rt_sigother_inner   ?????? Undefined, WEAK Reference
+__sigvec_lookup   ?????? Undefined, WEAK Reference
+__user_libspace   ?????? Undefined, WEAK Reference
+__user_perproc_libspace   ?????? Undefined, WEAK Reference
+_printf_mbtowc   ?????? Undefined, WEAK Reference
+_printf_wc   ?????? Undefined, WEAK Reference
+alloc_record   ?????? Undefined, WEAK Reference
+ccRGB888ToRGB565_Round   ?????? Undefined, WEAK Reference
+ccYCbCr420ToRGB565_8u16u_3P3C   ?????? Undefined, WEAK Reference
+ccYCbCr420ToRGB565_8u16u_3P3C_Asm   ?????? Undefined, WEAK Reference
+ccYCbCr420ToRGB565_8u16u_3P3C_Feedback   ?????? Undefined, WEAK Reference
+ccYCbCr420ToRGB565_8u16u_3P3C_Feedback_Asm   ?????? Undefined, WEAK Reference
+createDispatchTable   ?????? Undefined, WEAK Reference
+dlWdtKick   ?????? Undefined, WEAK Reference
+ds3g_setup_dataport_fortest   ?????? Undefined, WEAK Reference
+ds3g_siolib_getrx_dataitem   ?????? Undefined, WEAK Reference
+ds3g_siolib_set_inbound_flow   ?????? Undefined, WEAK Reference
+ds3g_siolib_setup_tx   ?????? Undefined, WEAK Reference
+dsmi_free_buffer   ?????? Undefined, WEAK Reference
+dsmi_new_buffer   ?????? Undefined, WEAK Reference
+eglCreatePbufferFromClientBuffer   ?????? Undefined, WEAK Reference
+enableCapButtonTouchReportingtoApps   ?????? Undefined, WEAK Reference
+flush_freemap   ?????? Undefined, WEAK Reference
+free_record   ?????? Undefined, WEAK Reference
+getMemUsage   ?????? Undefined, WEAK Reference
+glClipPlanef   ?????? Undefined, WEAK Reference
+glClipPlanex   ?????? Undefined, WEAK Reference
+glColor4ub   ?????? Undefined, WEAK Reference
+glGetBooleanv   ?????? Undefined, WEAK Reference
+glGetClipPlanef   ?????? Undefined, WEAK Reference
+glGetClipPlanex   ?????? Undefined, WEAK Reference
+glGetLightfv   ?????? Undefined, WEAK Reference
+glGetLightxv   ?????? Undefined, WEAK Reference
+glGetTexEnvfv   ?????? Undefined, WEAK Reference
+glGetTexEnviv   ?????? Undefined, WEAK Reference
+glGetTexEnvxv   ?????? Undefined, WEAK Reference
+glIsEnabled   ?????? Undefined, WEAK Reference
+glIsTexture   ?????? Undefined, WEAK Reference
+glPointParameterf   ?????? Undefined, WEAK Reference
+glPointParameterfv   ?????? Undefined, WEAK Reference
+glPointParameterx   ?????? Undefined, WEAK Reference
+glPointParameterxv   ?????? Undefined, WEAK Reference
+glTexParameteri   ?????? Undefined, WEAK Reference
+gluLookAt   ?????? Undefined, WEAK Reference
+glutWireCube   ?????? Undefined, WEAK Reference
+hPlatform_DevicePowerOff   ?????? Undefined, WEAK Reference
+hPlatform_DevicePowerOn   ?????? Undefined, WEAK Reference
+hPlatform_Wlan_Hardware_Init   ?????? Undefined, WEAK Reference
+hPlatform_hardResetTnetw   ?????? Undefined, WEAK Reference
+i2cInitializePort   ?????? Undefined, WEAK Reference
+i2cReceiveBuffer   ?????? Undefined, WEAK Reference
+i2cSendBuffer   ?????? Undefined, WEAK Reference
+i2cSendByte   ?????? Undefined, WEAK Reference
+i2cSendStartCondition   ?????? Undefined, WEAK Reference
+i2cSendStopCondition   ?????? Undefined, WEAK Reference
+i2cStandbyMode   ?????? Undefined, WEAK Reference
+init_freemap   ?????? Undefined, WEAK Reference
+isBwReserved   ?????? Undefined, WEAK Reference
+kdFclose   ?????? Undefined, WEAK Reference
+kdFgets   ?????? Undefined, WEAK Reference
+kdFopen   ?????? Undefined, WEAK Reference
+kdFread   ?????? Undefined, WEAK Reference
+kdFree   ?????? Undefined, WEAK Reference
+kdFseek   ?????? Undefined, WEAK Reference
+kdFtell   ?????? Undefined, WEAK Reference
+kdFwrite   ?????? Undefined, WEAK Reference
+kdMalloc   ?????? Undefined, WEAK Reference
+kdRealloc   ?????? Undefined, WEAK Reference
+kdStrtof   ?????? Undefined, WEAK Reference
+kdTest   ?????? Undefined, WEAK Reference
+nv_create_inode   ?????? Undefined, WEAK Reference
+nv_get_root   ?????? Undefined, WEAK Reference
+nv_read_inode   ?????? Undefined, WEAK Reference
+nv_read_named_inode   ?????? Undefined, WEAK Reference
+nv_start   ?????? Undefined, WEAK Reference
+nv_stop   ?????? Undefined, WEAK Reference
+nv_write_inode   ?????? Undefined, WEAK Reference
+omxVideoEncoderClose   ?????? Undefined, WEAK Reference
+omxVideoEncoderGetframe   ?????? Undefined, WEAK Reference
+omxVideoEncoderOpen   ?????? Undefined, WEAK Reference
+pbkdf2_sha1   ?????? Undefined, WEAK Reference
+readRtcDwordWrapper   ?????? Undefined, WEAK Reference
+saveScreenShot   ?????? Undefined, WEAK Reference
+saveScreenShotName   ?????? Undefined, WEAK Reference
+sdioAdapt_ConnectBus   ?????? Undefined, WEAK Reference
+sdioAdapt_DisconnectBus   ?????? Undefined, WEAK Reference
+sdioAdapt_Transact   ?????? Undefined, WEAK Reference
+sdioAdapt_TransactBytes   ?????? Undefined, WEAK Reference
+setupDeviceNumber   ?????? Undefined, WEAK Reference
+ttsGetLanguageList   ?????? Undefined, WEAK Reference
+v_nvram_closedir   ?????? Undefined, WEAK Reference
+v_nvram_create   ?????? Undefined, WEAK Reference
+v_nvram_getstat   ?????? Undefined, WEAK Reference
+v_nvram_link   ?????? Undefined, WEAK Reference
+v_nvram_lookup   ?????? Undefined, WEAK Reference
+v_nvram_mkdir   ?????? Undefined, WEAK Reference
+v_nvram_opendir   ?????? Undefined, WEAK Reference
+v_nvram_read   ?????? Undefined, WEAK Reference
+v_nvram_readdir   ?????? Undefined, WEAK Reference
+v_nvram_rename   ?????? Undefined, WEAK Reference
+v_nvram_rmdir   ?????? Undefined, WEAK Reference
+v_nvram_unlink   ?????? Undefined, WEAK Reference
+v_nvram_write   ?????? Undefined, WEAK Reference
+videoEncoderClose   ?????? Undefined, WEAK Reference
+videoEncoderGetframe   ?????? Undefined, WEAK Reference
+videoEncoderInitialize   ?????? Undefined, WEAK Reference
+videoEncoderOpen   ?????? Undefined, WEAK Reference
+voH264DecGetParameter   ?????? Undefined, WEAK Reference
+voH264DecInit   ?????? Undefined, WEAK Reference
+voH264DecProcess   ?????? Undefined, WEAK Reference
+voH264DecSetParameter   ?????? Undefined, WEAK Reference
+voH264DecUninit   ?????? Undefined, WEAK Reference
+voMPEG4DecGetParameter   ?????? Undefined, WEAK Reference
+voMPEG4DecInit   ?????? Undefined, WEAK Reference
+voMPEG4DecProcess   ?????? Undefined, WEAK Reference
+voMPEG4DecSetParameter   ?????? Undefined, WEAK Reference
+voMPEG4DecUninit   ?????? Undefined, WEAK Reference
+voWMADecGetParameter   ?????? Undefined, WEAK Reference
+voWMADecInit   ?????? Undefined, WEAK Reference
+voWMADecProcess   ?????? Undefined, WEAK Reference
+voWMADecSetParameter   ?????? Undefined, WEAK Reference
+voWMADecUninit   ?????? Undefined, WEAK Reference
+Load$$ROM$$Base   8
+__main   8
+ResetHandler   34
+Image$$IVT$$Length   48
+Image$$EndOfFlash$$Length   b8
+ResetALLSettings   170
+MetricsData   1e8
+Image$$IRAM_KERNEL_TASK_DATA$$Length   304
+EndOfAllocatedFlash   3a0
+LoadBase   3a4
+Jumptable_2_or_less_Args   3ac
+Image$$IRAM_KERNEL_MSGQ_DATA$$Length   488
+Jumptable_3_or_more_Args   1250
+CatastrophicFailureWithCode   159d
+RimCatastrophicFailure   159f
+CatastrophicFailureWithContext   15a1
+PrintMessage   15a9
+NvGetRecordCopy   15ab
+NvUpdateRecord   15af
+NvDeleteRecord   15b3
+IsHeadInSand   15b7
+LeaveKernelFirstTime   1681
+RimSemaphoreCreate   168f
+RimSemaphoreDelete   16eb
+RimMutexCreate   1725
+RimMutexDelete   1779
+RimFlagCreate   17b3
+RimFlagDelete   17db
+DumpSystemStacksAfterCrash   1895
+DumpSystemStacks   1897
+__user_initial_stackheap   1933
+__ARM_get_argv   1939
+initMemoryFirstStage   1943
+initMemorySecondStage   1951
+OSMain   195f
+MbBugdispAddBuffer   1ba5
+MbPrintFun   1c9f
+MbPrintNFun   1ce3
+MbPrint2NFun   1d29
+MbPrint3NFun   1d79
+MbPrint4NFun   1dcb
+MbPrint5NFun   1e27
+MbPrintCopyFun   1e89
+MbSendDebugItem   1ecf
+MbShowMemory   1f13
+MbBigShowMemory   1f73
+RbClear   1fdd
+RbInit   1ff3
+RbCount   1ff9
+RbCountNoWrap   1ffd
+RbGetHeadPtr   2021
+RbGetTailPtr   2029
+RbWrite   2031
+RbRead   208b
+RbGetBytesFree   20e7
+RbGetBytesFreeNoWrap   20ef
+RbPeek   211d
+RbPeekInto   2159
+RbAdded   21af
+RbSkip   21e5
+TaskCallNowX   245b
+HandleTaskCall   24b3
+OsGetMessageWithTimeout   2581
+RimSleep   2631
+RimWatchdogHit   26a1
+RimUnsupportedAPIFailure   26f5
+RimUnsupportedAPIFailureRawAddress   2723
+RimVsprintf   2739
+RimSprintf   29ed
+initMemory_internal   2a05
+InitializeVersionSpecificSignalMappings   2aa1
+GetPadPropertyPrimaryAltMode   2aab
+GetPadPropertyPullDownEnable   2ad3
+GetPadPropertyPullUpEnable   2afb
+GetPadPropertySecondaryAltMode   2b23
+InitLinkedList   2bd5
+ListRemoveFromBeginning   2bdf
+ListAddToEnd   2c01
+ListGetElementIndex   2c23
+ListRemoveElement   2c47
+JumpToZero_Handler   2c8d
+FixRegisters   2cb9
+Undefined_Handler   2cfb
+DataAbort_Handler   2d5f
+PrefetchAbort_Handler   2d61
+EmptyIrqHandler   2d63
+DumpRegisters   2ddd
+PJ4SpecificInit   2e41
+InterruptControllerInit   2eed
+KernelDumpISRProfileInfo   2ef9
+GetPadDefinition   2f9d
+MFPR_REG32   2fa5
+PadRead   34fb
+GetInterruptState   3627
+PadSet   3645
+PadClear   3775
+PadSetMode   387f
+PadInterruptEnable   3945
+PadInterruptConfigure   3b55
+PadRegisterIntHandler   3bff
+PadInterruptDisable   3c33
+PadInterruptClear   3cd5
+FlashConfigPadDrive   3e61
+USBConfigPadDrive   3e6b
+PadConfigure   3e75
+GpioInit   3f87
+ReadRtcDword   4015
+ReadRtcWhole   4021
+RimGetNativeTicks   4035
+RimGetNativeTicksPerSecond   4043
+ReadRtcWord   4047
+rtcCheckOsc   4053
+SwitchToTxtal   4055
+RtcHwInit   4057
+EarlyWatchdogHandler   4079
+BusInit   4087
+CoreSpecificInit   4089
+ChipSpecificInit   4091
+WdtHitInternal   4099
+WdtHit   40c7
+WdtInit   40cb
+ResetPeripherals   40d5
+RequireComms   40e3
+ForceCommsOff   40e5
+ConfigureSRAM   40e7
+ResetHwInit   410d
+ResetHwGetResetPower   4139
+RtcInit   4159
+rtcPause   4167
+bIsItTickingYet   4173
+RtcDelay   4193
+WaitForRtcTicks   41e3
+RtcToOldRimTicks   4203
+OldRimTicksToRtc   4217
+recalcUptime   4243
+RimGetUptime   426f
+RimGetTicks   4297
+GetUptimeAtRtc   42b1
+CheckRtcConsistency   42d9
+RtcToMs   4335
+SetHWTimer   44e1
+SetEarlyWatchdogTimer   453f
+EnableEarlyWatchdogTimer   4541
+ResumeEarlyWatchdogTimer   454f
+StopHWTimer   4557
+RegisterTimerExpiry   4571
+TimerHWInit   4587
+TimedSemaphoresInit   46cf
+ExpireSemaphoreTimer   471b
+RimLockCountingSemaphoreWithTimeout   47c9
+VoltageVote   496d
+FrequencyChangeCommonInit   496f
+ChangeCoreNFrequency   4973
+ChangeCoreNVoltage   4985
+FrequencyChangeInit   4989
+ChangeCoreFrequency   49f3
+FrequencyChangeBlock   49f7
+FrequencyChangeForceMax   4a41
+FrequencyChangeWaitMax   4a67
+GetCoreFrequency   4a8f
+GetCoreNFrequency   4a97
+UpdateCoreNFrequency   4b89
+GetTotalCoreStateTicks   4bb1
+UsbDeviceReset   4d9b
+InitUSBChargerRate   4db5
+UsbGetChargerRate   4dcb
+checkState   4e85
+UsbSetChargerRate   4ebf
+setState   4fad
+RimUsbToggleVerbosity   51c3
+getDescriptor   51cd
+setConfiguration   5289
+synchFrame   537f
+UsbHostVersionsReadComplete   5403
+RimUsbHandleVdrReq   5433
+RimUsbHandleStdReq   5659
+setupPacket   5785
+getGuid   57cf
+GetJvmStartStatus   591d
+UsbGenerateDevDesc   5921
+UsbGenerateDevQualDesc   5a29
+UsbGenerateCfgDesc   5ad7
+UsbGenerateStrDesc   5cdf
+RimUsbIsModeAvailable   5f0f
+RimUsbGetCurrentMode   5f6f
+RimUsbIsModeEnabled   5f75
+RimUsbSetMode   5f93
+RimUsbSetModeWithFallback   600f
+RimUsbGetCurrentSpeed   605f
+RimUsbToggleUsbFlags   6065
+IsCurrentModeComposite   6067
+UsbGenerateBBItfDesc   607f
+RimUsbGetCurrentPort   6109
+RimUsbGetConfigDescriptor   611f
+RimUsbGetInterfaceDescriptor   6121
+RimUsbGetEndpointDescriptor   6141
+EngSprintf   61d5
+GetVendorId   61d9
+RimGetDeviceHardwareInfo   61dd
+RimGetDeviceInfo   6201
+UsbGetConnectionStatus   6207
+UsbGetRegisterChannelCapabilities   624d
+UsbGetChannelOpen   6283
+UsbRegisterChannelEx   62c7
+UsbRegisterChannel   63a7
+UsbCloseChannel   67c3
+UsbDeRegisterChannel   68c3
+UsbOpenChannel   694d
+UsbSendPacket   6a39
+UsbAddReceiveBuffer   6bed
+UsbGetBufferInfo   6d4b
+UsbGetChannelParameters   6d9d
+RimGetUSBInfo   6de9
+StopUsbMessages   6e3f
+UsbGetChannelName   6e51
+UsbMuxOn   6e93
+UsbMuxOff   6f03
+UsbMuxPacketSent   7101
+UsbMuxPacketReceived   772f
+UsbMuxDbgDumpQueueInfo   7aab
+UsbMuxCatfail   7bf5
+UsbMuxDbgDumpInfo   7c67
+RimUsbSetControlReadDestination   83c1
+UnifiedUsbTaskHandler   83c7
+UnifiedUsbDebugTaskHandler   86bf
+RimUsbGetDefaultMode   8ac1
+RimUsbSetDefaultMode   8ac7
+RimUsbControlSendStatus   8ad9
+RimUsbGetOperatingSpeed   8af3
+RimUsbGetMaxOperatingSpeed   8b15
+RimUsbInitPipes   8b1f
+RimUsbCancelXfer   8bcd
+RimUsbCleanupPipes   8c73
+RimUsbResumePipes   8c85
+RimUsbCancelSend   8c97
+RimUsbCancelRead   8d11
+SetEndpointHaltStatus   8d5f
+GetEndpointHaltStatus   8d97
+UsbGetNvFlags   8dbb
+StartUSB   8e05
+PmInitAllowApps   8f77
+SendConnectionStatus   8f7b
+RimUsbStopAllChannels   9091
+RimUsbDisconnected   9099
+StopUSB   9141
+StopForReEnum   91d9
+UsbRead   91db
+getUsbReadStatus   9521
+UsbSend   9649
+getUsbSendStatus   980f
+IsBugdispConnected   9823
+isChannelNotificationPending   9833
+clearChannelNotificationPending   984f
+RimUsbFlagSoftReconnect   986f
+RimUsbIsSoftReconnectPending   9877
+RimUsbSoftReconnect   987d
+RimUsbOutXferDone   98e1
+RimUsbInXferDone   9c1b
+RimUsbSetSuspendState   9d31
+RimUsbResetInt   9e6f
+UsbSetNvFlags   9f91
+RimUsbDumpCatfailInfo   9fb5
+GetUsbSetupBuffer   a0ef
+RimUsbCableConnected   a0f5
+RimUsbForceModeAndSpeed   a11f
+RimUsbForceModeMSONLY   a181
+RimUsbSwitchSpeed   a191
+setDisableClearStallFeature   a1ad
+getDisableClearStallFeature   a1fd
+UsbSwitchEnumMode   a21b
+UsbGetCurrEnumMode   a3cd
+UsbSwitchEnumAttach   a413
+READ_CD   a565
+USB_CD_Handler   a569
+RimUsbStartCDHandler   a73d
+start_cable_check   a759
+ENABLE_CD   a769
+RimUsbCDInterruptOccurred   a76b
+CheckUsbAdapter   a7b7
+getLineStates   a981
+usbHandleTestModeReq   ac5f
+usbHandleReset   ac9d
+processSetupPacket   b147
+USB_IRQ_Handler   b231
+TestPVUsbTuningSupported   b5b3
+TestRestorePVUsbTuningRegs   b5b7
+TestReadPVUsbTuningReg   b62f
+TestWritePVUsbTuningReg   b66f
+UsbTavorPVChangePhyRX   b9ab
+UsbDrvDisablePipe   bf4f
+GetUsbHSPort   c287
+GetUsbFSPort   c28d
+EnableMMUCache   c329
+Disable_Cache   c415
+Flush_ICache   c434
+Flush_DCache   c440
+Clean_DCache   c454
+Prefetch_ICache   c460
+MMUGetFAR   c47c
+MMUGetDFSR   c488
+MMUGetIFSR   c494
+SetMMUSectionRange   c4a0
+SetMMUSectionRangeAsCoarsePageTable   c54c
+SetMMUCoarsePageTable   c5c4
+EnableCacheAndMMU   c7a8
+DisableCacheOnly   c7ec
+EnableDomain   c804
+DisableDomain   c820
+ClockRunning   c849
+ClockUptime   c859
+ClockEnable   c867
+ClockDisable   c877
+MSARunningMask   c879
+PeripheralUsedMask   c87f
+PrintClockStatistics   c887
+PeripheralRunningMask   c8cf
+ClocksAllowSleep   c8d7
+MSAUsedMask   c8e9
+ClocksNextRollingSample   c8ef
+PrintRollingClockStatistics   c8f1
+ClocksInit   c95b
+DumpTimerQueue   c9dd
+DumpTimerEnum   ca55
+OsTimerStop   cb27
+OsTimerCreate   cd05
+OsTimerLookup   cdfd
+OsTimerDelete   ce51
+OsTimerStart   cead
+OsTimerStartOnTask   ced1
+OsTimerStartCallback   ceed
+NRestartPeriodicTimer   cf11
+ExpireTimers   cfd7
+ExpireTimersInt   d017
+NDoTimerExpiry   d0f9
+NTimerInitialise   d17b
+NTimerGetMaxSleep   d1af
+TimerThreadEntryPoint   d1c3
+OsTimerRemainingTime   d2c7
+NTimeRemaining   d2e7
+NTimerGetNextToExpire   d31f
+NStartTimerStatic   d3c3
+NStartTimerSpecific   d3e5
+NStartTimerSpecificHandle   d401
+NStartTimerCallback   d41f
+NStopTimer   d445
+RefreshFPCookieTimeout   d619
+AppThreadEntryPoint   d637
+IdleThreadEntryPoint   d643
+PmInitIsComplete   d681
+RimResetReason   d685
+ShowBuildInfo   d68b
+BugdispCmdPermitted   dc7f
+ProcessBugDispCommand   dcb3
+ProcessDebugTaskMessage   dedd
+DebugTaskEntryPoint   e06d
+BufPrintFun   e08d
+BufPrintNFun   e0a5
+BufPrint2NFun   e0bf
+BufPrint3NFun   e0db
+BufPrint4NFun   e103
+BufPrint5NFun   e135
+OutBit   e16d
+InBit   e18f
+SelectAltFunction   e1a5
+RegisterCommandGroupHandler   e1b9
+CommonBugdispCommand   e249
+ProcessUsbTaskMessage   e5e5
+UsbTaskEntryPoint   e699
+UsbHPMuxRegisterChannel   e6ab
+UsbHPMuxDeRegisterChannel   e6cf
+UsbHPMuxOpenChannel   e6e7
+UsbHPMuxSendPacket   e701
+UsbHPMuxAddReceiveBuffer   e71f
+DebugInitializePort   e779
+GetNumDebugBuffers   e7a1
+GetDebugBufferInfo   e7a5
+GetDebugBufferInfoSize   e7b7
+DumpSavedBUGDISPLog   e7c3
+WakeDebugTask   e7c5
+BugdispSendUnencrypted   e89d
+BugdispSend   e8ab
+DumpSavedToCurrentBugdispLog   e8af
+DoBugdispWraparound   e8ed
+DebugSender   e913
+CircBufferSend   e953
+ThisCoreDebugPush   e9a5
+LpDebugPush   ea0b
+DebugStartOutput   ea35
+SendBacklog   ea69
+CatfailCheckUsbState   ea71
+RimBugdispLogging   ec91
+EmptyShmemBuffersIntoStagingBuffers   ecc1
+GetRimLogging   ecc9
+RimLogging   eceb
+BDCanDisconnect   ed43
+BugdispBufferSpaceAvailable   eda1
+EncodeFun   ede9
+EncodeNFun   ee23
+Encode2NFun   ee8b
+Encode3NFun   ef3d
+Encode4NFun   f01d
+Encode5NFun   f12f
+EncodeCopyFun   f269
+EncodeShowMemory   f2bf
+EncodeBigShowMemory   f357
+EncodeDebugItem   f44f
+RimDebugVprintf   f489
+RimDebugPrintf   f4af
+PrintCallerInfo   f4c3
+BugdispNessusCmd   f501
+DisplayAppMessageQueues   fbcd
+KernelDumpIntDisableProfileInfo   fdcd
+GetThreadClass   fddd
+RimGetCurrentTaskPriority   fe13
+DumpStacksAfterCrash   fe1f
+DumpKernelStacks   fe59
+DumpStackContents   fea1
+DumpSuspendedTaskRegisters   fee7
+GetThreadStackFree   ff53
+RimTaskStackInfo   ff67
+FlagCreate   100f9
+FlagDelete   10149
+DisplayFastFlagState   1016f
+KernelDumpRollingProfilingData   10185
+KernelDumpThreadProfileInfo   1018f
+KernelStartIncrementalProfileDump   10199
+KernelDumpThreadPerfmonInfo   101a3
+KernelDumpAPIProfileInfo   101ad
+EnableThreadProfileData   101b7
+GetThreadProfileData   101bb
+DeadlockDetectPeriodic   101d5
+SemaphoreCreate   102a5
+SemaphoreDel   10307
+MutexCreate   10361
+MutexDelete   103b1
+PlatformThreadEntryPoint   10421
+CmdLookup   1047d
+DumpCmdList   104b5
+PlatformBugdispEntry   10513
+PfCmdRegister   105ff
+VfCmdRegister   10667
+ReiInit   107dd
+DrvControl   10821
+DrvPrint   10843
+DrvFrameworkDebug   10875
+DrvEnable   10af7
+DrvFrameworkInit   10b09
+DrvFrameworkInitialized   10b71
+DrvGetHandle   10b77
+DrvGetStatus   10ba1
+DrvGetStats   10bb1
+DrvGetConfig   10bc1
+DrvDisable   10bd1
+DrvResetStats   10be3
+DrvIncDebugLevel   10bff
+DrvDecDebugLevel   10c0d
+PfMsgRegister   10e9d
+PfMsgHandler   10ecb
+convert2int   10f01
+cmd_bugdisp   10f5d
+SerialGetStatus   11189
+SerialGetStats   11197
+SerialGetConfig   111a5
+SerialEnable   111b3
+SerialDisable   1129b
+SerialControl   11323
+SerialMsgHandler   1143d
+SerialPollEvents   11453
+SerialIrqHandler   114af
+SerialInitialize   114b3
+DrvFwkI2cInit   117b9
+DrvFwkDispInit   11b6d
+RE_MFPR_REG32   11c3d
+RE_GetInterruptState   11c49
+RE_PadInterruptEnable   11c71
+RE_PadInterruptClear   11ecb
+RE_PadRegisterIntHandler   11f3f
+RE_PadInterruptConfigure   11f73
+RE_PadSetMode   12161
+RE_PadSet   121a5
+RE_PadInterruptDisable   122d7
+RE_PadClear   12377
+RE_PadConfigure   12481
+RE_PadRead   1265f
+GPIOIsr   1278d
+RE_GetPadDefinition   12813
+RE_GpioInit   1281b
+getGpio   129f9
+gpioBugdispCmd   12a03
+clkBugdispCmd   12e5d
+UartHwInitialize   131d1
+UartHwEnable   132ab
+UartHwDisable   1338b
+UartHwConfigure   13481
+UartHwWrite   135e1
+UartHwRead   136dd
+UartHwPollEvents   1372f
+UartClockEnable   13867
+UartClockDisable   138bd
+I2cEnable   138fd
+I2cRead   13b2f
+I2cWrite   13b7d
+I2cWriteRead   13bc5
+I2cWriteWrite   13c2d
+I2cInit   13c83
+I2cShow   13ee7
+DispInit   142fb
+DispEnable   14397
+DispDisable   14433
+DispShowSurface   14477
+DispMoveSurface   145c3
+DispGetOutpath   145e3
+DispReadLcdPixels   14615
+DispDumpRegs   1472f
+DispCopyBmpToSurface   151a9
+DrvDispBugDispHandle   15391
+GetPeripheralClock   155c9
+RE_ClockEnable   15613
+RE_ClockDisable   15653
+RE_DumpClockList   15695
+DsiInit   15769
+DsiEnable   15793
+DsiDisable   15797
+DsiControl   1579b
+DsiSendVideoPacket   157b1
+DsiDcsWrite   157df
+DsiDcsRead   157f3
+DsiRawWrite   1581d
+DispDsiConfigTiming   15821
+HdmiInit   1582d
+HdmiEnable   15831
+HdmiDisable   15835
+HdmiControl   15839
+DispParallelInit   1583d
+DispParallelEnable   15873
+DispParallelDisable   1591d
+DispParallelConfigTiming   1592d
+DispParallelSendVideoPacket   159b3
+DispParallelReadVideoPacket   15a65
+DispParallelWriteData   15b4b
+DispParallelWriteCmd   15b61
+DispParallelReadData   15b83
+DispParallelReadCmd   15bb9
+svp_lcdGetFuncs   15d85
+svp_lcdSharpMirageGetConfig   15da1
+svp_lcdSharpMirageInit   15dc9
+svp_lcdSharpMirageWriteStart   15f83
+svp_lcdSharpMirageWriteEnd   15fcb
+svp_lcdSharpMirageReadStart   15fd7
+svp_lcdSharpMirageReadEnd   16009
+svp_lcdSharpMirageIoctl   1600b
+__use_no_heap_region   160a5
+__I_use_heap_region   160a7
+__aeabi_uldivmod   160a8
+_ll_udiv   160a8
+_ll_udiv_small   16108
+_ll_udiv_big   16218
+_ll_udiv_ginormous   1634c
+_ll_div0   1636c
+__printf   16389
+_printf_return_value   1665f
+_printf_percent   16661
+_printf_sizespec   16663
+_printf_pre_padding   16669
+_printf_post_padding   16693
+_printf_str   166b5
+_printf_int_dec   1670d
+vsprintf   1677d
+__0sprintf   167a5
+__1sprintf   167a5
+__aeabi_memset   167d0
+__aeabi_memcpy   167e0
+__rt_memcpy   167e0
+_memcpy_lastbytes   16894
+__aeabi_memclr   168b4
+__rt_memclr   168b4
+_memset   168b8
+__aeabi_memcpy4   168f4
+__aeabi_memcpy8   168f4
+__rt_memcpy_w   168f4
+_memcpy_lastbytes_aligned   16940
+__aeabi_memclr4   16958
+__aeabi_memclr8   16958
+__rt_memclr_w   16958
+_memset_w   1695c
+strcpy   169ad
+strncmp   169f9
+strlen   16a49
+strcmp   16a90
+__aeabi_uread4   16b30
+__rt_uread4   16b30
+__aeabi_uwrite4   16b50
+__rt_uwrite4   16b50
+strtok   16b71
+__aeabi_idiv   16b80
+__aeabi_idivmod   16b80
+__ARM_ll_mullu   16d00
+_ll_mullu   16d00
+__ARM_switch8   16d08
+__rt_switch8   16d08
+__aeabi_lmul   16d20
+_ll_mul   16d20
+_printf_truncate_signed   16d3d
+_printf_truncate_unsigned   16d53
+_printf_wctomb   16d69
+_printf_int_common   16e25
+_printf_longlong_hex   16ec5
+_printf_longlong_oct   16f8d
+_printf_longlong_dec   1701d
+_printf_charcount   170a5
+_printf_char_common   170c9
+_sputc   170fd
+__strtok_internal   17109
+__rt_udiv10   17154
+_ll_udiv10   17180
+__lib_sel_fp_printf   17221
+_printf_fp_dec_real   17405
+_printf_fp_hex_real   176bd
+_printf_outstr_char   179d1
+_printf_input_char   179eb
+_wcrtomb   179f5
+strcspn   17a39
+strspn   17a5b
+__rt_ctype_table   17a7c
+__rt_locale   17a94
+_btod_etento   17aa5
+__aeabi_uidiv   17b68
+__aeabi_uidivmod   17b68
+OssrWrite   17ba0
+_btod_d2e   17bcc
+_d2e_denorm_low   17c04
+_d2e_norm_op1   17c58
+__btod_div_common   17cc0
+_e2e   1800c
+_btod_ediv   180e8
+_btod_emul   1811c
+__btod_mult_common   18150
+EnterKernelFIQ   183b8
+EnterKernelIRQ   183fc
+EnterKernelDataAbort   1841c
+EnterKernelPrefetchAbort   1843c
+EnterKernelUndefined   1846c
+EnterKernelSWI   184ac
+LeaveKernelFirstTime_asm   184d4
+EmptyBaseIrqHandler   18528
+EmptyBaseFiqHandler   18554
+JumpToZeroHandler   18580
+StoreCoreRegisters   185a8
+PostMessageEntry   18619
+GetMessageEntry   1861d
+TaskYieldEntry   18621
+ScanMessageQueueEntry   18625
+DisplayAppMessageQueuesEntry   18629
+GetVMStackInfoEntry   1862d
+PeekSpecificMessageEntry   18631
+WaitForSpecificMessageEntry   18635
+EnterCriticalSectionEntry   18639
+LeaveCriticalSectionEntry   1863d
+CheckCriticalSectionEntry   18641
+LockCountingSemaphoreEntry   18645
+UnlockCountingSemaphoreEntry   18649
+TaskStopEntry   1864d
+TaskRestartEntry   18651
+LockSemaphoreEntry   18655
+UnlockSemaphoreEntry   18659
+InitSemaphoreEntry   1865d
+TaskBlockEntry   18661
+TaskUnblockEntry   18665
+FlagSetEntry   18669
+FlagWaitEntry   1866d
+FastFlagSetEntry   18671
+FastFlagWaitEntry   18675
+ScanMessageSpecificEntry   18679
+DisableInterruptsEntry   1867d
+EnableInterruptsEntry   18681
+UserTaskSyscallEntry   18685
+SwitchToUserModeEntry   18689
+SwitchToKernelModeEntry   1868d
+MutexLockEntry   18691
+MutexTryLockEntry   18695
+MutexUnlockEntry   18699
+MutexCreateEntry   1869d
+MutexDeleteEntry   186a1
+MutexGetOwnerEntry   186a5
+SemaphoreLockEntry   186a9
+SemaphoreUnlockEntry   186ad
+SemaphoreCreateEntry   186b1
+SemaphoreDeleteEntry   186b5
+SemaphoreGetCountEntry   186b9
+SemaphoreGetFirstWaiterEntry   186bd
+PostMessageWithFlagsEntry   186c1
+DequeueLargeMessageEntry   186c5
+LogTraceUserEntry   186c9
+SendDebugItem   186cd
+ShowMemory   18731
+ShowMemoryAddress   18773
+BigShowMemory   1889d
+PrintFun   189b5
+PrintNFun   189f3
+Print2NFun   18a4f
+Print3NFun   18adb
+Print4NFun   18b91
+Print5NFun   18c6b
+PrintCopyFun   18d65
+KernelHeapInit   18dc1
+KernelTypedMalloc   18e1d
+KernelTypedFree   18e51
+HwDelayInIram   18e8d
+MmpDisableHwTimer   18eed
+MmpEnableHwTimer   18efd
+HwDelay   19001
+InterruptHandler   1925d
+RegisterIntHandler   192cd
+EnableInterrupt   19359
+DisableInterrupt   19549
+ClearInterrupt   195b5
+AssertInterrupt   195b7
+AssertCrossCoreInt   195b9
+IsInterruptPending   195bb
+IsInterruptMasked   19633
+SetInterruptPriority   196d9
+RimDisplayAppMessageQueues   19819
+RimLockCountingSemaphore   19839
+RimUnlockCountingSemaphore   19859
+RimInitCountingSemaphore   19889
+RimSemaphoreLock   198b1
+RimSemaphoreUnlock   198dd
+RimSemaphoreGetCount   19911
+RimSemaphoreGetFirstWaiter   19933
+RimEnterCriticalSection   19955
+RimLeaveCriticalSection   1997f
+RimCheckCriticalSection   199af
+RimTaskStop   199c9
+RimTaskRestart   199e5
+RimLockSemaphore   19a19
+RimUnlockSemaphore   19a39
+RimInitSemaphore   19a59
+RimMutexLock   19a79
+RimMutexTryLock   19a9d
+RimMutexUnlock   19ab7
+RimMutexGetOwner   19adb
+RimFlagSet   19af7
+RimFlagWait   19b37
+RimFlagPeek   19b71
+OsDisableInterrupts   19b9d
+OsEnableInterrupts   19bf5
+EnableThreadInterrupts   19cc5
+ScanMessageQueue   19ce5
+ScanMessageSpecific   19d71
+DisableInterrupts   19e45
+EnableInterrupts   19e5f
+BlockTaskFast   19e81
+WakeTaskFast   19e8f
+RimTaskPriority   19eb3
+UnlockCountingSemaphore   19f1d
+UnblockFromSemaphore   19f59
+BlockCurrentThread   19fe1
+UnblockThread   1a021
+LockSemaphore   1a053
+UnlockSemaphore   1a0e9
+InitSemaphore   1a155
+LockCountingSemaphore   1a193
+InitCountingSemaphore   1a1fd
+CheckCriticalSection   1a255
+EnterCriticalSection   1a25b
+LeaveCriticalSection   1a3f5
+TaskStop   1a423
+TaskRestart   1a495
+OsTaskGetID   1a4d7
+OsTaskGetCount   1a4dd
+RimTaskIsStopped   1a4e3
+FlagSet   1a555
+FlagWait   1a60f
+FlagPeek   1a693
+ClearFastFlagsOnTaskStop   1a6bd
+SemaphoreLock   1a72f
+SemaphoreUnlock   1a83d
+SemaphoreGetCount   1a88b
+SemaphoreGetFirstWaiter   1a8ad
+MutexTryLock   1a9d7
+MutexLock   1a9f7
+MutexUnlock   1aa4d
+MutexGetOwner   1aacd
+KernelHandleFromPointer   1ab55
+KernelPointerFromHandle   1ab57
+LeaveKernel   1ac03
+SyscallHandlerOs   1ac23
+SystemSWIEntryPoint   1adcf
+RimPostMessage   1adfb
+OsPostUniqueMessage   1ae3d
+RimGetMessage   1ae85
+RimPeekSpecificMessage   1aedd
+RimPeekMessage   1aef1
+RimTaskYield   1af09
+RimScanMessageQueue   1af19
+RimScanMessageSpecific   1afc5
+RimWaitForSpecificMessage   1affb
+KernelPostMessageWithFlags   1b039
+KernelGetLargeMessage   1b0c5
+EmptyFiqHandler   1b119
+FIQ_Handler   1b13b
+CatastrophicFailureInOut   1b16f
+ArmCpWait   1b1bc
+ReadCpReg32ID   1b1cc
+ReadCpReg32CTYPE   1b1d4
+ReadCpReg32CTRL   1b1dc
+WriteCpReg32CTRLAnd   1b1e4
+WriteCpReg32CTRL   1b1ec
+WriteCpReg32CTRLOr   1b200
+ReadCpReg32TTBR0   1b21c
+WriteCpReg32TTBR0And   1b224
+WriteCpReg32TTBR0   1b22c
+WriteCpReg32TTBR0Or   1b240
+ReadCpReg32DACR   1b25c
+WriteCpReg32DACRAnd   1b264
+WriteCpReg32DACR   1b26c
+WriteCpReg32DACROr   1b280
+ReadCpReg32FSR   1b29c
+WriteCpReg32FSRAnd   1b2a4
+WriteCpReg32FSR   1b2ac
+WriteCpReg32FSROr   1b2c0
+ReadCpReg32FAR   1b2dc
+WriteCpReg32FARAnd   1b2e4
+WriteCpReg32FAR   1b2ec
+WriteCpReg32FAROr   1b300
+ReadCpReg32DLOCK   1b31c
+WriteCpReg32DLOCKAnd   1b324
+WriteCpReg32DLOCK   1b32c
+WriteCpReg32DLOCKOr   1b340
+ReadCpReg32ILOCK   1b35c
+WriteCpReg32ILOCKAnd   1b364
+WriteCpReg32ILOCK   1b36c
+WriteCpReg32ILOCKOr   1b380
+ReadCpReg32PID   1b39c
+WriteCpReg32PIDAnd   1b3a4
+WriteCpReg32PID   1b3ac
+WriteCpReg32PIDOr   1b3c0
+ReadCpReg32IBR0   1b3dc
+WriteCpReg32IBR0And   1b3e4
+WriteCpReg32IBR0   1b3ec
+WriteCpReg32IBR0Or   1b400
+ReadCpReg32IBR1   1b41c
+WriteCpReg32IBR1And   1b424
+WriteCpReg32IBR1   1b42c
+WriteCpReg32IBR1Or   1b440
+ReadCpReg32DBR0   1b45c
+WriteCpReg32DBR0And   1b464
+WriteCpReg32DBR0   1b46c
+WriteCpReg32DBR0Or   1b480
+ReadCpReg32DBR1   1b49c
+WriteCpReg32DBR1And   1b4a4
+WriteCpReg32DBR1   1b4ac
+WriteCpReg32DBR1Or   1b4c0
+ReadCpReg32DBCON   1b4dc
+WriteCpReg32DBCONAnd   1b4e4
+WriteCpReg32DBCON   1b4ec
+WriteCpReg32DBCONOr   1b500
+ReadCpReg32CPAR   1b51c
+WriteCpReg32CPARAnd   1b524
+WriteCpReg32CPAR   1b52c
+WriteCpReg32CPAROr   1b540
+ReadCpReg32AUXCTRL   1b55c
+WriteCpReg32AUXCTRLAnd   1b564
+WriteCpReg32AUXCTRL   1b56c
+WriteCpReg32AUXCTRLOr   1b580
+ReadCpReg32L2ID   1b59c
+ReadCpReg32L2CTYPE   1b5a4
+ReadCpReg32ERRLOG   1b5ac
+WriteCpReg32ERRLOGAnd   1b5b4
+WriteCpReg32ERRLOG   1b5bc
+WriteCpReg32ERRLOGOr   1b5c4
+ReadCpReg32ERRADRL   1b5d4
+WriteCpReg32ERRADRLAnd   1b5dc
+WriteCpReg32ERRADRL   1b5e4
+WriteCpReg32ERRADRLOr   1b5ec
+ReadCpReg32ERRADRU   1b5fc
+WriteCpReg32ERRADRUAnd   1b604
+WriteCpReg32ERRADRU   1b60c
+WriteCpReg32ERRADRUOr   1b614
+ReadCpReg32PMNC   1b624
+WriteCpReg32PMNCAnd   1b62c
+WriteCpReg32PMNC   1b634
+WriteCpReg32PMNCOr   1b63c
+ReadCpReg32CCNT   1b64c
+WriteCpReg32CCNTAnd   1b654
+WriteCpReg32CCNT   1b65c
+WriteCpReg32CCNTOr   1b664
+ReadCpReg32INTEN   1b674
+WriteCpReg32INTENAnd   1b67c
+WriteCpReg32INTEN   1b684
+WriteCpReg32INTENOr   1b68c
+ReadCpReg32FLAG   1b69c
+WriteCpReg32FLAGAnd   1b6a4
+WriteCpReg32FLAG   1b6ac
+WriteCpReg32FLAGOr   1b6b4
+ReadCpReg32EVTSEL   1b6c4
+WriteCpReg32EVTSELAnd   1b6cc
+WriteCpReg32EVTSEL   1b6d4
+WriteCpReg32EVTSELOr   1b6dc
+ReadCpReg32PMN0   1b6ec
+WriteCpReg32PMN0And   1b6f4
+WriteCpReg32PMN0   1b6fc
+WriteCpReg32PMN0Or   1b704
+ReadCpReg32PMN1   1b714
+WriteCpReg32PMN1And   1b71c
+WriteCpReg32PMN1   1b724
+WriteCpReg32PMN1Or   1b72c
+ReadCpReg32PMN2   1b73c
+WriteCpReg32PMN2And   1b744
+WriteCpReg32PMN2   1b74c
+WriteCpReg32PMN2Or   1b754
+ReadCpReg32PMN3   1b764
+WriteCpReg32PMN3And   1b76c
+WriteCpReg32PMN3   1b774
+WriteCpReg32PMN3Or   1b77c
+WriteCpReg32TX   1b78c
+ReadCpReg32RX   1b794
+ReadCpReg32DCSR   1b79c
+WriteCpReg32DCSRAnd   1b7a4
+WriteCpReg32DCSR   1b7ac
+WriteCpReg32DCSROr   1b7b4
+ReadCpReg32TBREG   1b7c4
+ReadCpReg32CHKPT0   1b7cc
+WriteCpReg32CHKPT0And   1b7d4
+WriteCpReg32CHKPT0   1b7dc
+WriteCpReg32CHKPT0Or   1b7e4
+ReadCpReg32CHKPT1   1b7f4
+WriteCpReg32CHKPT1And   1b7fc
+WriteCpReg32CHKPT1   1b804
+WriteCpReg32CHKPT1Or   1b80c
+ReadCpReg32TXRXCTRL   1b81c
+WriteCpReg32TXRXCTRLAnd   1b824
+WriteCpReg32TXRXCTRL   1b82c
+WriteCpReg32TXRXCTRLOr   1b834
+ReadCpReg32CACHELOCK   1b844
+WriteCpReg32CACHELOCKAnd   1b84c
+WriteCpReg32CACHELOCK   1b854
+WriteCpReg32CACHELOCKOr   1b868
+ReadCpReg32CACHESIZEID   1b884
+ReadCpReg32CACHELEVELID   1b88c
+ReadCpReg32CACHESIZESELECT   1b894
+WriteCpReg32CACHESIZESELECTAnd   1b89c
+WriteCpReg32CACHESIZESELECT   1b8a4
+WriteCpReg32CACHESIZESELECTOr   1b8b8
+ReadCpReg32AUXDEBUGCTRL0   1b8d4
+WriteCpReg32AUXDEBUGCTRL0And   1b8dc
+WriteCpReg32AUXDEBUGCTRL0   1b8e4
+WriteCpReg32AUXDEBUGCTRL0Or   1b8f8
+ReadCpReg32AUXDEBUGCTRL1   1b914
+WriteCpReg32AUXDEBUGCTRL1And   1b91c
+WriteCpReg32AUXDEBUGCTRL1   1b924
+WriteCpReg32AUXDEBUGCTRL1Or   1b938
+ReadCpReg32AUXFUNCCTRL   1b954
+WriteCpReg32AUXFUNCCTRLAnd   1b95c
+WriteCpReg32AUXFUNCCTRL   1b964
+WriteCpReg32AUXFUNCCTRLOr   1b978
+ReadCpReg32L2CERRTHRESHOLD   1b994
+WriteCpReg32L2CERRTHRESHOLDAnd   1b99c
+WriteCpReg32L2CERRTHRESHOLD   1b9a4
+WriteCpReg32L2CERRTHRESHOLDOr   1b9b8
+CacheInvalidateInstructionRange   1b9d4
+CacheInvalidateDataRange   1b9e8
+CacheCleanDataRange   1b9fc
+CacheCleanAndInvalidateDataRange   1ba10
+L1InvalidateICacheAndBTB   1ba24
+L1InvalidateICacheMVA   1ba2c
+L1InvalidateICacheSetWay   1ba34
+InstructionSyncBarrier   1ba3c
+L1InvalidateBTB   1ba44
+L1FlushBTBIMP   1ba4c
+L1InvalidateDCache   1ba54
+L1InvalidateDCacheMVA   1ba5c
+L1InvalidateDCacheSetWay   1ba64
+L1InvalidateIAndDCacheAndBTB   1ba6c
+L1CleanDCacheMVA   1ba74
+L1CleanDCacheSetWay   1ba7c
+L1PrefetchICacheMVA   1ba84
+L1CleanAndInvalidateDCacheMVA   1ba8c
+L1CleanAndInvalidateDCacheSetWay   1ba94
+L1InvalidateIAndDTLB   1ba9c
+L1InvalidateITLB   1baa4
+L1InvalidateITLBMVA   1baac
+L1InvalidateDTLB   1bab4
+L1InvalidateDTLBMVA   1babc
+DataMemoryBarrier   1bac4
+DataSyncBarrier   1bacc
+L2InvalidateCacheMVA   1bad4
+L2CleanCacheMVA   1badc
+L2CleanCacheSetWay   1bae4
+L2CleanAndInvalidateCacheSetWay   1baec
+L1FetchAndLockICacheMVA   1baf4
+L2FetchAndLockCacheMVA   1bafc
+L1UnlockICache   1bb04
+L2UnlockCache   1bb0c
+L2AllocateAndLockCacheMVA   1bb14
+L1UnlockDCache   1bb1c
+L1TranslateAndLockITLBMVA   1bb24
+L1UnlockITLB   1bb2c
+L1TranslateAndLockDTLBMVA   1bb34
+L1UnlockDTLB   1bb3c
+L1AllocateVA   1bb44
+L2InvalidateCacheAll   1bb4c
+L2CleanCacheAll   1bb54
+L1CleanDCache   1bb5c
+L1CleanAndInvalidateDCache   1bb64
+InitMessageQueue   1bb6d
+GetMessage   1bc95
+PostMessage   1bd41
+PeekSpecificMessage   1beb3
+RimPriorityMessageCount   1bed1
+CoreIntDisableInternal   1c035
+CoreIntDisable   1c03d
+CoreIntEnableInternal   1c045
+CoreIntEnable   1c08d
+GetNextTaskReadyToRun   1c0a5
+TaskYield   1c0dd
+RimGetCurrentTaskID   1c0ff
+StartKernel   1c109
+IsOSTaskPending   1c11b
+KernelProfileIncrementalTickEvent   1c16d
+InterruptsAreEnabled   1c198
+FastCoreIntDisable_real   1c1ac
+FastCoreIntEnable_real   1c1c4
+SetCPSR   1c1dc
+GetSPSR   1c1f4
+EnableCurrentThreadInterrupts   1c1fc
+SetCurrentThreadMode   1c220
+CountLeadingZeros   1c238
+GetModeRegisters   1c240
+GetPreservedRegisters   1c268
+CreateThreads   1c27d
+ScheduleInitialize   1c3d9
+CreateThread   1c437
+StoreArmRegisters   1c570
+GetCPSR   1c598
+__ARM_fpclassify   1c5b0
+__mathlib_classify   1c5e0
+__support_dtoi   1c614
+_get_lc_numeric   1c670
+_get_lc_ctype   1c6c0
+__fpl_dcheck_NaN1   1c710
+__dunder   1c738
+__dunder_d   1c848
+__ieee_status   1c84c
+_printf_fp_dec   1c854
+_printf_fp_hex   1c858
+__fpl_return_NaN   1c85c
+__ARM_scalbn   1c8d0
+scalbn   1c8d0
+__fpl_inf_scalbn   1c9c8
+__fpl_cmpreturn   1c9cc
+Hex_digits   1ca08
+__I_use_fp   1ca08
+myArray   1ca19
+PossibleCoreFrequencies   3ca40
+PossibleDspCoreFrequencies   3ca50
+usbModes   3ca5c
+UsbBugDispInEp   3caf0
+UsbBugDispOutEp   3cb00
+UsbMuxInEp   3cb10
+UsbMuxOutEp   3cb20
+UsbBB_BDispSubItf   3cb30
+UsbBB_MUXSubItf   3cb44
+UsbBBItf   3cb58
+UsbModeBBOnly   3cb70
+EngScreen_UsbPortInfoMenu   3cbd8
+EngScreen_UsbPortInfo   3cc00
+EngScreen_UsbInfo   3cc34
+MMU_MEM_LAYOUT_ENTRIES   3cc5c
+peripheralClocks   3cc60
+AllBufferInfo   3cf04
+KernelMetricsData   3cf88
+__ctype   3d89d
+Image$$IVT$$Base   3d9a0
+Load$$IVT$$Base   3d9a0
+os_extended   3d9e8
+Load$$IRAM_KERNEL_TASK_DATA$$Base   3dac4
+Load$$IRAM_KERNEL_MSGQ_DATA$$Base   431cc
+Load$$RAM$$Base   43654
+Load$$EndOfFlash$$Base   48000
+StartOfAllocatedERam   9ffffc
+SVC_STACK   a00000
+FIQ_STACK   a00600
+SVC_STACK_TOP   a00600
+ABT_STACK   a00c00
+FIQ_STACK_TOP   a00c00
+ABT_STACK_TOP   a00e00
+IRQ_STACK   a00e00
+IRQ_STACK_TOP   a01000
+UND_STACK   a01000
+Image$$IRAM_KERNEL_TASK_DATA$$Base   a01200
+UND_STACK_TOP   a01201
+updateAccrBusFreqs   a01201
+intDisableCount   a0122c
+intDisableState   a01230
+criticalSectionCounter   a01234
+NumThreads   a01238
+CurrentTaskIndex   a0123c
+PreviousTaskIndex   a01240
+CurrentContextEndPtr   a01244
+TaskTable   a01248
+TaskContexts   a01368
+PreviousContextEndPtr   a01500
+IDLE_THREAD_STACK   a01508
+TIMER_THREAD_STACK   a01908
+PLATFORM_THREAD_ID_DRV_STACK   a01d08
+USB_THREAD_STACK   a05908
+Image$$IRAM_KERNEL_MSGQ_DATA$$Base   a06908
+priorityMessageCount   a06908
+FreeList   a0690c
+MessageBuffer   a06910
+CatastrophicFailure   a06d90
+Image$$RAM$$Base   a06d90
+storageForRegisters   a06d94
+FlashDriversPassedInit   a06d9c
+EndOfAllocatedERam   a06db0
+BT_EN_Line   a06f10
+BT_UART_RX_Line   a06f14
+BT_UART_TX_Line   a06f18
+CB_UART_RX_Line   a06f1c
+CB_UART_TX_Line   a06f20
+CODEC_INT_N_Line   a06f24
+CODEC_RESET_N_Line   a06f28
+I2C_SCL_Line   a06f2c
+I2C_SDA_Line   a06f30
+I2S_BCLK_Line   a06f34
+I2S_SDIN_Line   a06f38
+I2S_SDOUT_Line   a06f3c
+I2S_SYSCLK_Line   a06f40
+I2S_WCLK_Line   a06f44
+KEYIN_0_Line   a06f48
+KEYIN_1_Line   a06f4c
+KEYIN_2_Line   a06f50
+KEYIN_3_Line   a06f54
+KEYIN_4_Line   a06f58
+KEYIN_5_Line   a06f5c
+KEYOUT_0_Line   a06f60
+KEYOUT_1_Line   a06f64
+KEYOUT_2_Line   a06f68
+KEYOUT_3_Line   a06f6c
+KEYOUT_4_Line   a06f70
+KEYOUT_5_Line   a06f74
+KEYOUT_6_Line   a06f78
+KEYOUT_7_Line   a06f7c
+LCD_A0_Line   a06f80
+LCD_CS_N_Line   a06f84
+LCD_CTRL_Line   a06f88
+LCD_DATA_0_Line   a06f8c
+LCD_DATA_1_Line   a06f90
+LCD_DATA_10_Line   a06f94
+LCD_DATA_11_Line   a06f98
+LCD_DATA_12_Line   a06f9c
+LCD_DATA_13_Line   a06fa0
+LCD_DATA_14_Line   a06fa4
+LCD_DATA_15_Line   a06fa8
+LCD_DATA_2_Line   a06fac
+LCD_DATA_3_Line   a06fb0
+LCD_DATA_4_Line   a06fb4
+LCD_DATA_5_Line   a06fb8
+LCD_DATA_6_Line   a06fbc
+LCD_DATA_7_Line   a06fc0
+LCD_DATA_8_Line   a06fc4
+LCD_DATA_9_Line   a06fc8
+LCD_RD_N_Line   a06fcc
+LCD_RST_N_Line   a06fd0
+LCD_VSYNC_Line   a06fd4
+LCD_VSYNC1_Line   a06fd8
+LCD_WR_N_Line   a06fdc
+LS_PWR_Line   a06fe0
+MICROSD_SD_CLK_Line   a06fe4
+MICROSD_SD_CMD_Line   a06fe8
+MICROSD_SD_DATA0_Line   a06fec
+MICROSD_SD_DATA1_Line   a06ff0
+MICROSD_SD_DATA2_Line   a06ff4
+MICROSD_SD_DATA3_Line   a06ff8
+ONENAND_AVD_N_Line   a06ffc
+ONENAND_CE_N_CS2_Line   a07000
+ONENAND_CLK_Line   a07004
+ONENAND_INT_Line   a07008
+ONENAND_RD_N_Line   a0700c
+ONENAND_WR_N_Line   a07010
+PCM_CLK_Line   a07014
+PCM_IN_Line   a07018
+PCM_OUT_Line   a0701c
+PCM_SYNC_Line   a07020
+PMIC_INT_N_Line   a07024
+SD_CD_N_Line   a07028
+TRACKBALL_DOWN_LINE_Line   a0702c
+TRACKBALL_LEFT_LINE_Line   a07030
+TRACKBALL_RIGHT_LINE_Line   a07034
+TRACKBALL_UP_LINE_Line   a07038
+TRACKBALL_X_POWER_Line   a0703c
+WLAN_EN_Line   a07040
+WLAN_SD_CLK_Line   a07044
+WLAN_SD_CMD_Line   a07048
+WLAN_SD_DATA0_Line   a0704c
+WLAN_SD_DATA1_Line   a07050
+WLAN_SD_DATA2_Line   a07054
+WLAN_SD_DATA3_Line   a07058
+GpioLatchStates   a07064
+GPIO_REVERSE_MAPPINGS   a07308
+rtcHigh   a07610
+TavorCommInitInProgress   a07614
+LastRtcDword   a07620
+BRtcWasInvalid   a07630
+EarliestSource   a07634
+NextExpiry   a0765c
+maxUsbPower   a0767c
+newSpeed   a0767d
+newMode   a0767e
+lastSetupFrame   a07680
+pUsbPort   a07684
+setupCpy   a0768c
+lastSetupPkt   a07694
+brversion   a0769c
+UsbFullVerbosity   a076a0
+currentDescriptorState   a076a4
+UsbNoPort   a076a8
+dwPendingConfigTransitions   a07754
+curSpeed   a07758
+curMode   a0775a
+usbIAD   a0775c
+usbInterface   a0776e
+endpoints   a07778
+newModeForced   a07788
+curPwrLvl   a0778c
+hwInfoCacheState   a07794
+controlReadDestination   a077e8
+switchStack   a077f0
+ResetOnCablePull   a077f8
+usbStarted   a077fc
+UsbChargerPresent   a07800
+startUSBFinished   a07804
+setupBuf   a07808
+speedSwitchRequired   a0780c
+UsbBDispDebugIndex   a07810
+softReconnect   a07818
+usbInvStHandle   a0782c
+usbState   a07838
+SetHighPower   a0783c
+usbCheckAdapterCounter   a07840
+usbQuincyEnabled   a07844
+profileMtpSwitchStartTime   a07848
+cdInterruptStatus   a0784c
+newAddress   a07850
+testMode   a07860
+testModePending   a07864
+addressState   a07868
+pSecTable   a07930
+PageLayoutStruct   a07934
+MMUSectionLayoutRAM   a0793c
+PageLayoutNonCacheRAM   a0799c
+CwsbrShadow   a079d8
+RefreshFPStartTime   a07c00
+BugdispProtocol   a07c04
+LogDeviceSideTimestamps   a07c08
+DspLoggingEnabled   a07c10
+BugdispConnected   a07c1c
+BdVetoOn   a07c20
+BugdispLoggingEnabled   a07c24
+UsbPacketSending   a07c2c
+WakeupSent   a07c30
+UsbChannelOpen   a07c34
+NewBugdispConnection   a07c38
+MaxBugdispUsbPacket   a07c3c
+UQin   a07c44
+UQout   a07c48
+NullFunc   a07c58
+pDispDrv   a07dfc
+RE_GpioLatchStates   a08108
+RE_GPIO_REVERSE_MAPPINGS   a08410
+GPIOHdlr   a08d14
+kernelServiceRequestor   a08fb8
+intDisableCheckState   a08fbc
+interruptsWereEnabled   a08fc0
+entryHook   a09084
+exitHook   a09088
+taskReadyHook   a0908c
+DEBUG_THREAD_STACK   a09110
+APP_THREAD_STACK   a0a110
+Image$$RAM$$ZI$$Base   a0b700
+storageForRegisters_data   a0b700
+guidCache   a0c5e0
+hostVersionsCommandBuffer   a0c600
+hwInfo   a0d700
+UsbQueue   a0efa0
+UsbCommandBuffer   a0f7a0
+pipes   a121a0
+readPipes   a1236c
+sendPipes   a12378
+UsbBDispDebug   a123fc
+setupBufDW   a12500
+hwFlags   a12610
+clockSemaphore   a126a8
+LogTaskMessages   a1343e
+DebugTx   a13520
+SavedDebugTx   a33630
+TaskInfoTable   a53740
+msg   a53cc0
+I2cDrv   a53cdc
+RE_GPIOHdlr   a54000
+i2cCtrl   a54488
+DisplayDriver   a54560
+Image$$RAM$$ZI$$Limit   ad34cc
+Image$$MMU_PAGE_TAB$$ZI$$Base   ad4000
+Image$$MMU_PAGE_TAB$$ZI$$Limit   ad8400
+OSTrailer   3200000

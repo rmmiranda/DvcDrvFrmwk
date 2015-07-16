@@ -1,0 +1,105 @@
+#line 1 "config/platform_os/mmp_pj4.sct"
+#line 1 "scatter\\common_tavor_xscale.sct"
+
+
+#line 1 "include\\memorydef.h"
+
+
+
+ 
+
+
+
+
+
+
+#line 21 "include\\memorydef.h"
+
+
+
+#line 33 "include\\memorydef.h"
+
+#line 4 "scatter\\common_tavor_xscale.sct"
+
+
+FLASH_IMAGE 0x00000008 0x02F30000 {
+
+
+
+
+
+
+
+
+
+
+
+    ROM +0x00000000 (0x00020000 - 0x00000008) {
+        arm7_devinit.o(Init,+FIRST)
+        os_export_table.o (export_jump_table)
+        metrics.o (+RO)
+        arm7_linkerinfo.o (+RO)
+	}
+    
+    ROM0 +0 {
+        *.o (+RO)
+        *.o (kidata)
+
+    }
+
+    IVT +0 {
+    *.o (RamImageIntVector)
+    }
+
+    
+  
+    
+    OSExtSection +0 {
+        os_extended.o (+RO)
+    }
+
+    
+
+    
+    
+    StartERAM 0x00A00000 -0x00000004 {
+         enderam.o(StartOfERam)
+    }
+
+
+    KERNEL_STACKS +0 {
+        *.o (kstacks)
+    }
+
+    IRAM_KERNEL_TASK_DATA +0 {
+        * (OsDataTaskDescriptors)
+    }
+
+    FAST_STACKS +0 {
+        * (FastTaskStacks)
+    }
+
+
+    IRAM_KERNEL_MSGQ_DATA +0 {
+        * (OsDataMsgQueues)
+    }
+
+    RAM +0 {
+    *.o (+RW,+ZI)
+    }
+
+    MMU_PAGE_TAB +0 ALIGN 0x4000 {
+    *.o (MMUSectionTable, +FIRST)
+    *.o (MMUCoarsePageTable)
+    }
+
+    UNCACHED_RAM (0x00A00000+0x02800000) 0x03200000 {
+    *.o (OsDataNonCachable)
+    }
+
+    EndOfFlash +0 {
+        ossignature.o (+RO)
+    }
+}
+
+#line 2 "config/platform_os/mmp_pj4.sct"

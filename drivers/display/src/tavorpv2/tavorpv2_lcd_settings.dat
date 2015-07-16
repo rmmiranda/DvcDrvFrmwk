@@ -1,0 +1,436 @@
+/* tavorpv2_lcd_settings - DSI Smart Lcd panel mode definition, should follow the format defined in lcd_defs.h . 
+   Display Driver will set one of the predefined modes */
+
+
+/* Mode Definition 
+   - panel ID (Identify different panels: 0x00 - TPO, 0x01 - eDISCO, 0x02 - DSI bridge )
+   - panel Type (DSI DCS smart panel)
+   - 864 x 480 WVGA resolution (TPO 864*480 WVGA)
+   - 24 bit color
+   - DSI bit clock
+   - LPX, HSPREP, HSZERO, HSTRAIL, HSEXIT, TAGO, CLZERO, CLTRAIL, TAGET, WAKEUP (Needed for DCS DSI smart LCD panel)
+   - flags for Rotation and future purpose
+*/
+    /* TPO (panelId - 0x00) settings: 312M */
+    {
+     0,
+     PANEL_LCD_SMART_DSI, 
+     864, 
+     480, 
+     24, 
+     DSI_LINK_CLK_624M, 
+     0x02,  // LPX
+     0x03,  // HSPREP
+     0x06,  // HSZERO
+     0x01,  // HSTRAIL
+     0x14,  // HSEXIT
+     0x10,  // TAGO
+     0x11,  // CLZERO
+     0x05,  // CLTRAIL
+     0x18,  // TAGET
+     0xffff,// WAKEUP
+     0x02   // flags
+    },
+    {
+     0,
+     PANEL_LCD_SMART_DSI, 
+     864, 
+     480, 
+     24, 
+     DSI_LINK_CLK_DDR2, 
+     0x02, 
+     0x03,
+     0x0C,
+     0x03,
+     0x14,
+     0x0A,
+     0x11,
+     0x05,
+     0x0D,
+     0xffff,
+     0x02
+    },
+
+    {
+     0,
+     PANEL_LCD_SMART_DSI, 
+     864, 
+     480, 
+     24, 
+     DSI_LINK_CLK_312M, 
+     0x02, 
+     0x03,
+     0x0C,
+     0x03,
+     0x14,
+     0x0A,
+     0x11,
+     0x05,
+     0x0D,
+     0xffff,
+     0x02
+    },
+
+    {
+     0,
+     PANEL_LCD_SMART_DSI, 
+     864, 
+     480, 
+     24, 
+     DSI_LINK_CLK_208M, 
+     0x02, 
+     0x04,
+     0x07,
+     0x04,
+     0x14,
+     0x10,
+     0x11,
+     0x05,
+     0x18,
+     0xffff,
+     0x02
+    },
+
+    {
+     0,
+     PANEL_LCD_SMART_DSI, 
+     864, 
+     480, 
+     24, 
+     DSI_LINK_CLK_156M, 
+     0x02, 
+     0x04,
+     0x08,
+     0x06,
+     0x14,
+     0x10,
+     0x11,
+     0x05,
+     0x18,
+     0xffff,
+     0x02
+    },
+
+    {
+     0,
+     PANEL_LCD_SMART_DSI, 
+     864, 
+     480, 
+     24, 
+     DSI_LINK_CLK_104M, 
+     0x02, 
+     0x05,
+     0x09,
+     0x07,
+     0x14,
+     0x10,
+     0x03,
+     0x0A,
+     0x18,
+     0xffff,
+     0x02
+    },
+
+    {
+     0,
+     PANEL_LCD_SMART_DSI, 
+     864, 
+     480, 
+     24, 
+     DSI_LINK_CLK_52M, 
+     0x02, 
+     0x07,
+     0x0C,
+     0x10,
+     0x14,
+     0x10,
+     0x11,
+     0x05,
+     0x18,
+     0xffff,
+     0x02
+    },
+
+    /* eDISCO (panelID 0x01) Settings */
+    {
+     0x01,
+     PANEL_LCD_SMART_DSI, 
+     480, 
+     640, 
+     24, 
+     DSI_LINK_CLK_52M, 
+     0x03, 
+     0x07,
+     0x0C,
+     0x10,
+     0x14,
+     0x10,
+     0x11,
+     0x05,
+     0x18,
+     0xFFFF,
+     0x02
+    },
+
+    {
+     0x01,
+     PANEL_LCD_SMART_DSI, 
+     480, 
+     640, 
+     24, 
+     DSI_LINK_CLK_104M, 
+     0x03, 
+     0x05,
+     0x09,
+     0x07,
+     0x14,
+     0x10,
+     0x03,
+     0x0A,
+     0x18,
+     0xFFFF,
+     0x02
+    },
+
+    {
+     0x01,
+     PANEL_LCD_SMART_DSI, 
+     480, 
+     640, 
+     24, 
+     DSI_LINK_CLK_156M, 
+     0x03, 
+     0x05,
+     0x09,
+     0x07,
+     0x14,
+     0x10,
+     0x03,
+     0x0A,
+     0x18,
+     0xFFFF,
+     0x02
+    },
+
+    {
+     0x01,
+     PANEL_LCD_SMART_DSI, 
+     480, 
+     640, 
+     24, 
+     DSI_LINK_CLK_208M, 
+     0x03, 
+     0x04,
+     0x07,
+     0x04,
+     0x14,
+     0x10,
+     0x11,
+     0x05,
+     0x18,
+     0xFFFF,
+     0x02
+    },
+
+    {
+     0x01,
+     PANEL_LCD_SMART_DSI, 
+     480, 
+     640, 
+     24, 
+     DSI_LINK_CLK_312M, 
+     0x03, 
+     0x03,
+     0x0C,
+     0x03,
+     0x14,
+     0x0A,
+     0x11,
+     0x05,
+     0x18,
+     0xFFFF,
+     0x02
+    },
+
+    {
+     0x01,
+     PANEL_LCD_SMART_DSI, 
+     480, 
+     640, 
+     24, 
+     DSI_LINK_CLK_DDR2, 
+     0x03, 
+     0x03,
+     0x0C,
+     0x03,
+     0x14,
+     0x0A,
+     0x11,
+     0x05,
+     0x18,
+     0xffff,
+     0x02
+    },
+
+    {
+     0x01,
+     PANEL_LCD_SMART_DSI, 
+     480, 
+     640, 
+     24, 
+     DSI_LINK_CLK_624M, 
+     0x03,  // LPX
+     0x03,  // HSPREP
+     0x06,  // HSZERO
+     0x01,  // HSTRAIL
+     0x14,  // HSEXIT
+     0x10,  // TAGO
+     0x11,  // CLZERO
+     0x05,  // CLTRAIL
+     0x18,  // TAGET
+     0xffff,// WAKEUP
+     0x02   // flags
+    },
+
+    /* Proteus (panelID 0x02) Settings */
+    {
+     0x02,
+     PANEL_LCD_SMART_DSI, 
+     480, 
+     440, 
+     24, 
+     DSI_LINK_CLK_52M, 
+     0x03, 
+     0x07,
+     0x0C,
+     0x10,
+     0x14,
+     0x10,
+     0x11,
+     0x05,
+     0x18,
+     0xFFFF,
+     0x02
+    },
+
+    {
+     0x02,
+     PANEL_LCD_SMART_DSI, 
+     480, 
+     440, 
+     24, 
+     DSI_LINK_CLK_104M, 
+     0x03, 
+     0x05,
+     0x09,
+     0x07,
+     0x14,
+     0x10,
+     0x03,
+     0x0A,
+     0x18,
+     0xFFFF,
+     0x02
+    },
+
+    {
+     0x02,
+     PANEL_LCD_SMART_DSI, 
+     480, 
+     440, 
+     24, 
+     DSI_LINK_CLK_156M, 
+     0x03, 
+     0x05,
+     0x09,
+     0x07,
+     0x14,
+     0x10,
+     0x03,
+     0x0A,
+     0x18,
+     0xFFFF,
+     0x02
+    },
+
+    {
+     0x02,
+     PANEL_LCD_SMART_DSI, 
+     480, 
+     440, 
+     24, 
+     DSI_LINK_CLK_208M, 
+     0x03, 
+     0x04,
+     0x07,
+     0x04,
+     0x14,
+     0x10,
+     0x11,
+     0x05,
+     0x18,
+     0xFFFF,
+     0x02
+    },
+
+    {
+     0x02,
+     PANEL_LCD_SMART_DSI, 
+     480, 
+     440, 
+     24, 
+     DSI_LINK_CLK_312M, 
+     0x03, 
+     0x03,
+     0x0C,
+     0x03,
+     0x14,
+     0x0A,
+     0x11,
+     0x05,
+     0x18,
+     0xFFFF,
+     0x02
+    },
+
+    {
+     0x02,
+     PANEL_LCD_SMART_DSI, 
+     480, 
+     440, 
+     24, 
+     DSI_LINK_CLK_DDR2, 
+     0x03, 
+     0x03,
+     0x0C,
+     0x03,
+     0x14,
+     0x0A,
+     0x11,
+     0x05,
+     0x18,
+     0xFFFF,
+     0x02
+    },
+
+    {
+     0x02,
+     PANEL_LCD_SMART_DSI, 
+     480, 
+     440, 
+     24, 
+     DSI_LINK_CLK_624M, 
+     0x03,  // LPX
+     0x03,  // HSPREP
+     0x06,  // HSZERO
+     0x01,  // HSTRAIL
+     0x14,  // HSEXIT
+     0x10,  // TAGO
+     0x11,  // CLZERO
+     0x05,  // CLTRAIL
+     0x18,  // TAGET
+     0xffff,// WAKEUP
+     0x02   // flags
+    }
+
+
